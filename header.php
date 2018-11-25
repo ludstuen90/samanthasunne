@@ -26,7 +26,8 @@
 	<div class="site-inner">
 		<a class="skip-link screen-reader-text" href="#content"><?php _e( 'Skip to content', 'twentysixteen' ); ?></a>
 
-		<header id="masthead" class="site-header" role="banner">
+		<header id="masthead" class="site-header"  style="background-size:100%;background-image: url('http://localhost/wp-content/themes/samanthasunne/static/nola_1863.jpg');" role="banner">
+
 			<div class="site-header-main">
 				<div class="site-branding">
 					<?php twentysixteen_the_custom_logo(); ?>
@@ -46,7 +47,7 @@
 				<?php if ( has_nav_menu( 'primary' ) || has_nav_menu( 'social' ) ) : ?>
 					<button id="menu-toggle" class="menu-toggle"><?php _e( 'Menu', 'twentysixteen' ); ?></button>
 
-					<div id="site-header-menu" class="site-header-menu">
+					<div id="site-header-menu"  style="background-color: #ffffff;" class="site-header-menu">
 						<?php if ( has_nav_menu( 'primary' ) ) : ?>
 							<nav id="site-navigation" class="main-navigation" role="navigation" aria-label="<?php esc_attr_e( 'Primary Menu', 'twentysixteen' ); ?>">
 								<?php
@@ -97,3 +98,5 @@
 		</header><!-- .site-header -->
 
 		<div id="content" class="site-content">
+
+			<br>
