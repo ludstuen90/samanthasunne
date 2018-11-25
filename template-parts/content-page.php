@@ -31,14 +31,8 @@
 	</div><!-- .entry-content -->
 	<?php if(is_front_page()): ?>
 
-	<div style="width:100%; ">
-		<img src="http://www.samanthasunne.com/wp-content/uploads/2016/10/wapo.png" width = 20%></img>
-		<img src="http://www.samanthasunne.com/wp-content/uploads/2016/09/reuters.png" width =  20%></img>
-		<img src="http://www.samanthasunne.com/wp-content/uploads/2016/09/source.png" width =  75px></img>
-		<img src="http://www.samanthasunne.com/wp-content/uploads/2016/09/api.png" width= 20%</img>
-		<img src="http://www.samanthasunne.com/wp-content/uploads/2016/09/npr.png" width=20% </img>
+		<?php include('news_images.php');?>
 
-	</div>
 <?php endif; ?>
 
 	<?php
