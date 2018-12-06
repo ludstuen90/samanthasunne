@@ -39,6 +39,8 @@
 			<?php endif; ?>
 
 			<div class="site-info">
+
+				<p>Copyright Samantha Sunne.  </p>
 				<?php
 					/**
 					 * Fires before the twentysixteen footer text for footer customization.

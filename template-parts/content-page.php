@@ -32,6 +32,10 @@
 	<?php if(is_front_page()): ?>
 
 		<?php include('news_images.php');?>
+		<br>
+		<?php include('proud_projects.php');?>
+		<br>
+		<?php include('resume.php');?>
 
 <?php endif; ?>
 

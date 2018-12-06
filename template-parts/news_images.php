@@ -4,4 +4,6 @@
   <img src="http://www.samanthasunne.com/wp-content/uploads/2016/09/source.png" width =  19%></img>
   <img src="http://www.samanthasunne.com/wp-content/uploads/2016/09/api.png" width= 19%</img>
   <img src="http://www.samanthasunne.com/wp-content/uploads/2016/09/npr.png" width=19% </img>
+
+
 </div>
