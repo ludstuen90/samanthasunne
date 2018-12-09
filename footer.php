@@ -40,7 +40,19 @@
 
 			<div class="site-info">
 
-				<p>Copyright Samantha Sunne.  </p>
+				<?php
+				# This method calculates the current year, and makes it availbale to display
+				# on our pages
+				function currentYear( $atts ){
+						return date('Y');
+				}
+				add_shortcode( 'year', 'currentYear' );
+				?>
+				<p>Copyright Samantha Sunne, <?php echo date('Y'); ?>.
+					<br> Design
+				work by J.C. Lee and code by Lukas Udstuen. </p>
+
+
 				<?php
 					/**
 					 * Fires before the twentysixteen footer text for footer customization.
