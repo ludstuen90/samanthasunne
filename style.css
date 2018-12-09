@@ -3381,8 +3381,8 @@ p > video {
 	.no-sidebar .page-header,
 	.no-sidebar .page-content,
 	.no-sidebar .content-bottom-widgets {
-		margin-right: 15%;
-		margin-left: 15%;
+		margin-right: 5%;
+		margin-left: 5%;
 	}
 
 	.widecolumn {
