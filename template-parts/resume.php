@@ -1,28 +1,28 @@
-<div class="entry-content">
-  <h1> Resume </h1>
-  <!-- <style>
-.square {
-  height: 150px;
-  width: 85%;
-  display:inline-block;
-  background-color: #555;
-  float: left;
-}
-</style>
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+  <h1> Resume</h1>
 
-<div style="width:20%; vertical-align:top; padding: 0 10px 0 10px; margin: 0 10px 0 10px; display: inline-block;">
-  <div class="square"></div>
 </div>
-<div style="width:50%; vertical-align:top; padding: 0 10px 0 10px; margin: 0 10px 0 10px; display: inline-block;">
-  <p>Get tough with it, get strong. You can do anything your heart can imagine. Isn't that fantastic that you can make whole mountains in minutes? And I know you're saying, 'Oh Bob, you've done it this time.' And you may be right.
-</p>
 </div>
 
-<div style="width:20%; vertical-align:top; padding: 0 10px 0 10px; display: inline-block;">
-  <div class="square"></div>
-</div>
+  <div class="row">
 
-<div style="width:50%; vertical-align:top; padding: 0 10px 0 10px; display: inline-block;">
-  <p>Play with the angles. If we're going to have animals around we all have to be concerned about them and take care of them. Don't hurry. Take your time and enjoy. This is where you take out all your hostilities and frustrations. It's better than kicking the puppy dog around and all that so.
-</p> -->
-</div>
+      <div class="col-md-2" style="vertical-align:top;  display:table-cell;">
+        <img class="resume-icon-img" src="http://localhost/wp-content/themes/samanthasunne/static/search.png">
+      </div>
+      <div class="col-md-4" style="vertical-align:top; ">
+        <div style="float:right; display:inline;"><p>It is a lot of fun. This present moment is perfect simply due to the fact you're experiencing it. Just a happy little shadow that lives in there. Tree trunks grow however makes them happy. You are only limited by your imagination. It's all a game of angles.
+      </p></div>
+
+      <br>
+      </div>
+
+      <div class="col-md-2" style="vertical-align:top;">
+        <img class="resume-icon-img" src="http://localhost/wp-content/themes/samanthasunne/static/pencil.png">
+      </div>
+      <div class="col-md-4" style="vertical-align:top;">
+        <p>The only prerequisite is that it makes you happy. If it makes you happy then it's good. We'll put all the little clouds in and let them dance around and have fun. We tell people sometimes: we're like drug dealers, come into town and get everybody absolutely addicted to painting.</p>
+      </div>
+  </div>
+  </div>

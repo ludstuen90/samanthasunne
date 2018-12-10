@@ -8,7 +8,12 @@
  * @subpackage Twenty_Sixteen
  * @since Twenty Sixteen 1.0
  */
+
+ wp_enqueue_style ('sammi-style', get_template_directory_uri().'/css/sammi_sunne_custom_styles.css');
+ wp_enqueue_style ('bootstrap', $src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css");
 ?>
+
+
 
 		</div><!-- .site-content -->
 
@@ -40,7 +45,11 @@
 
 			<div class="site-info">
 
-				<p>Copyright Samantha Sunne.  </p>
+				<p>Copyright Samantha Sunne, <?php echo date('Y'); ?>.
+					<br> Design
+				work by J.C. Lee and <a href="https://icons8.com/license/">Icons8</a>. Code by <a target="_blank" href="http://www.lukasudstuen.com/">Lukas Udstuen</a> and <a href="http://wordpress.com/">WordPress</a>. </p>
+
+
 				<?php
 					/**
 					 * Fires before the twentysixteen footer text for footer customization.
