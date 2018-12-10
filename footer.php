@@ -50,7 +50,7 @@
 				?>
 				<p>Copyright Samantha Sunne, <?php echo date('Y'); ?>.
 					<br> Design
-				work by J.C. Lee and code by Lukas Udstuen. </p>
+				work by J.C. Lee and code by <a target="_blank" href="http://www.lukasudstuen.com/">Lukas Udstuen</a>. </p>
 
 
 				<?php
