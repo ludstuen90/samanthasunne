@@ -34,3 +34,11 @@
     .header-image {
     margin-top: 20px;
 }
+
+.file_image {
+  width: 30%;
+  margin-right: 100px;
+  margin-bottom: 75px;
+  display: inline-block;
+  float: left;
+}

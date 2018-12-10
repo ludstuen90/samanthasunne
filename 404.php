@@ -14,10 +14,14 @@ get_header(); ?>
 
 			<section class="error-404 not-found">
 				<header class="page-header">
-					<h1 class="page-title"><?php _e( 'Oops! That page can&rsquo;t be found.', 'twentysixteen' ); ?></h1>
+					<h1 class="page-title"><?php _e( "Uh oh! There doesn't seem to be anything here", 'twentysixteen' ); ?></h1>
 				</header><!-- .page-header -->
 
 				<div class="page-content">
+
+					<img class="file_image" src="<?php echo get_template_directory_uri(); ?>/static/file.png">
+					<br><br>
+
 					<p><?php _e( 'It looks like nothing was found at this location. Maybe try a search?', 'twentysixteen' ); ?></p>
 
 					<?php get_search_form(); ?>
