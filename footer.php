@@ -8,7 +8,12 @@
  * @subpackage Twenty_Sixteen
  * @since Twenty Sixteen 1.0
  */
+
+ wp_enqueue_style ('sammi-style', get_template_directory_uri().'/css/sammi_sunne_custom_styles.css');
+ wp_enqueue_style ('bootstrap', $src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css");
 ?>
+
+
 
 		</div><!-- .site-content -->
 
