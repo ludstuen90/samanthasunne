@@ -26,4 +26,11 @@
     right: 5%;
     z-index:10;
   }
+
+  .site-header{
+    padding-bottom: 2.rem;
+    }
+
+    .header-image {
+    margin-top: 20px;
 }
