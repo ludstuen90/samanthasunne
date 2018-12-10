@@ -19,3 +19,12 @@
   display:inline-block;
   background-color: #555;
 }
+
+
+@media(min-width: 768px) {
+  .site-header-menu {
+    position: fixed;
+    right: 5%;
+    z-index:10;
+  }
+}
