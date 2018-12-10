@@ -40,14 +40,6 @@
 
 			<div class="site-info">
 
-				<?php
-				# This method calculates the current year, and makes it availbale to display
-				# on our pages
-				function currentYear( $atts ){
-						return date('Y');
-				}
-				add_shortcode( 'year', 'currentYear' );
-				?>
 				<p>Copyright Samantha Sunne, <?php echo date('Y'); ?>.
 					<br> Design
 				work by J.C. Lee and code by <a target="_blank" href="http://www.lukasudstuen.com/">Lukas Udstuen</a>. </p>
