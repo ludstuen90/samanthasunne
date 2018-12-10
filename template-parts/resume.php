@@ -8,7 +8,7 @@
 
   <div class="row">
 
-      <div class="col-md-2" style="vertical-align:top;  display:table-cell;">
+      <div class="col-md-2" style="  display:table-cell;">
         <img class="resume-icon-img" src="http://localhost/wp-content/themes/samanthasunne/static/search.png">
       </div>
       <div class="col-md-4" style="vertical-align:top; ">
