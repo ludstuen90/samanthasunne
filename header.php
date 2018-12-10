@@ -26,7 +26,7 @@
 	<div class="site-inner">
 		<a class="skip-link screen-reader-text" href="#content"><?php _e( 'Skip to content', 'twentysixteen' ); ?></a>
 
-		<header id="masthead" class="site-header"  style="background-size:100%;background-image: url('http://localhost/wp-content/themes/samanthasunne/static/nola_1863.jpg');" role="banner">
+		<header id="masthead" class="site-header"  style="background-size:100%;background-image:url('<?php echo get_template_directory_uri(); ?>/static/nola_1863.jpg');" role="banner">
 
 			<div class="site-header-main">
 				<div class="site-branding">
