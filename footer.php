@@ -47,7 +47,7 @@
 
 				<p>Copyright Samantha Sunne, <?php echo date('Y'); ?>.
 					<br> Design
-				work by J.C. Lee and code by <a target="_blank" href="http://www.lukasudstuen.com/">Lukas Udstuen</a>. </p>
+				work by J.C. Lee and <a href="https://icons8.com/license/">Icons8</a>. Code by <a target="_blank" href="http://www.lukasudstuen.com/">Lukas Udstuen</a> and <a href="http://wordpress.com/">WordPress</a>. </p>
 
 
 				<?php

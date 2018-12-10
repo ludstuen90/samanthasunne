@@ -27,4 +27,5 @@
         <p>The only prerequisite is that it makes you happy. If it makes you happy then it's good. We'll put all the little clouds in and let them dance around and have fun. We tell people sometimes: we're like drug dealers, come into town and get everybody absolutely addicted to painting.</p>
       </div>
   </div>
+  <a href="projects/"><p>Click here</a> to see more projects.</p>
   </div>
