@@ -20,7 +20,7 @@
   background-color: #555;
 }
 
-@media(min-width: 768px) {
+@media(min-width: 900px) {
   .site-header-menu {
     position: fixed;
     right: 5%;
