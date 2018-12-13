@@ -19,7 +19,7 @@
       </div>
 
       <div class="col-md-2" style="vertical-align:top;">
-        <img class="resume-icon-img" src="<?php echo get_template_directory_uri(); ?>/static/pencil.png">
+        <img class="resume-icon-img" src="<?php echo get_template_directory_uri(); ?>/static/easel.png">
       </div>
       <div class="col-md-4" style="vertical-align:top;">
         <p>The only prerequisite is that it makes you happy. If it makes you happy then it's good. We'll put all the little clouds in and let them dance around and have fun. We tell people sometimes: we're like drug dealers, come into town and get everybody absolutely addicted to painting.</p>
