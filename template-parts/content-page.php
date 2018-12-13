@@ -16,17 +16,35 @@
 	<?php twentysixteen_post_thumbnail(); ?>
 
 	<div class="entry-content">
-		<?php
-		the_content();
 
-		wp_link_pages( array(
-			'before'      => '<div class="page-links"><span class="page-links-title">' . __( 'Pages:', 'twentysixteen' ) . '</span>',
-			'after'       => '</div>',
-			'link_before' => '<span>',
-			'link_after'  => '</span>',
-			'pagelink'    => '<span class="screen-reader-text">' . __( 'Page', 'twentysixteen' ) . ' </span>%',
-			'separator'   => '<span class="screen-reader-text">, </span>',
-		) );
+		<?php
+
+
+		// This website includes custom pages that allow the user
+		// to manipulate the site beyond what the text editor offers.
+		// Depending on what URL path we are at, we'll render different pages.
+
+		$page_url = get_permalink();
+		$split_array = explode('/', $page_url);
+
+		if ( $split_array[3] == 'tutorials' ) {
+
+			get_template_part( 'template-parts/content', 'tutorials' );
+
+			
+		}
+		else{
+			the_content();
+
+			wp_link_pages( array(
+				'before'      => '<div class="page-links"><span class="page-links-title">' . __( 'Pages:', 'twentysixteen' ) . '</span>',
+				'after'       => '</div>',
+				'link_before' => '<span>',
+				'link_after'  => '</span>',
+				'pagelink'    => '<span class="screen-reader-text">' . __( 'Page', 'twentysixteen' ) . ' </span>%',
+				'separator'   => '<span class="screen-reader-text">, </span>',
+			) );
+		}
 		?>
 	</div><!-- .entry-content -->
 	<?php if(is_front_page()): ?>
