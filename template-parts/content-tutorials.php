@@ -148,6 +148,10 @@
          Fluff that up.</p>
 
          <p><a href="_blank">Read More</a></p>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 916dbea313fc1822c750c5d5f89f9c953ef4236e
      </div>
      <div class="col-md-4">
 
