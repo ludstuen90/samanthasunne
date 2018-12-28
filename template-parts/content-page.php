@@ -15,8 +15,11 @@
 
 	<?php twentysixteen_post_thumbnail(); ?>
 
-	<div class="entry-content">
 
+
+	<?php if(is_front_page()): ?>
+		<div class="entry-content">
+		<?php endif; ?>
 		<?php
 
 
@@ -31,7 +34,7 @@
 
 			get_template_part( 'template-parts/content', 'tutorials' );
 
-			
+
 		}
 		else{
 			the_content();
@@ -46,9 +49,9 @@
 			) );
 		}
 		?>
-	</div><!-- .entry-content -->
-	<?php if(is_front_page()): ?>
 
+	<?php if(is_front_page()): ?>
+		</div> 	<!-- .entry-content -->
 		<?php include('news_images.php');?>
 		<br>
 		<?php include('proud_projects.php');?>

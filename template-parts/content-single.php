@@ -34,7 +34,8 @@
 				get_template_part( 'template-parts/biography' );
 			}
 		?>
-	</div><!-- .entry-content -->
+	</div> 	<!-- .entry-content -->
+
 
 	<footer class="entry-footer">
 		<?php twentysixteen_entry_meta(); ?>
