@@ -21,13 +21,28 @@
   background-color: #555;
 }
 
+.news_banner {
+  width:100%;
+  margin-left: 55px;
+}
+
+@media(max-width: 900px) {
+  .news_banner {
+    margin-left: -20px;
+    width:125%;
+
+  }
+
+}
+
 @media(min-width: 900px) {
+
+
   .site-header-menu {
     position: fixed;
     right: 5%;
     z-index:10;
   }
-
   .site-header{
     padding-bottom: 2.rem;
     }
@@ -42,4 +57,28 @@
   margin-bottom: 75px;
   display: inline-block;
   float: left;
+}
+
+}
+body p, h1, h2, h3, h4, h5 {
+      font-family: Merriweather, Georgia, serif; !important
+}
+
+
+.menu-toggle:hover, .menu-toggle:focus, a, .main-navigation a:hover, .main-navigation a:focus, .dropdown-toggle:hover, .dropdown-toggle:focus, .social-navigation a:hover:before, .social-navigation a:focus:before, .post-navigation a:hover .post-title, .post-navigation a:focus .post-title, .tagcloud a:hover, .tagcloud a:focus,
+.site-branding .site-title a:hover, .site-branding .site-title a:focus, .entry-title a:hover, .entry-title a:focus, .entry-footer a:hover, .entry-footer a:focus,
+.comment-metadata a:hover, .comment-metadata a:focus, .pingback .comment-edit-link:hover, .pingback .comment-edit-link:focus, .comment-reply-link, .comment-reply-link:hover, .comment-reply-link:focus, .required, .site-info a:hover, .site-info a:focus {
+   color: #29aa7b !important;
+}
+
+.main-navigation a {
+    color: #1a1a1a !important;
+  }
+.project_image {
+  width: 100%;
+  padding-bottom: 15px;
+}
+
+.project-title {
+  padding-top: 20px;
 }

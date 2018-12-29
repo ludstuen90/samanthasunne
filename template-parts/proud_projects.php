@@ -1,4 +1,4 @@
-<div class="container">
+<div class="container  entry-content">
   <div class="row">
     <div class="col-md-12">
   <h1> Recent Projects </h1>
@@ -12,7 +12,6 @@
         <p>Let your imagination be your guide. Let's give him a friend too. Everybody needs a friend. The light is your friend. Preserve it. I really believe that if you practice enough you could paint the 'Mona Lisa' with a two-inch brush.
       </p>
       </div>
-
 
       <div class="col-md-4" style="vertical-align:top; ">
         <div class="square"></div>
