@@ -13,14 +13,11 @@
   height: 111px;
 }
 
+.proud-project-img {
+  width: 100%;
+  padding-bottom: 15px;
 
-.square {
-  height: 150px;
-  width: 85%;
-  display:inline-block;
-  background-color: #555;
 }
-
 .news_banner {
   width:100%;
   margin-left: 55px;
