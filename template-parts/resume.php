@@ -9,7 +9,7 @@
   <div class="row">
 
       <div class="col-md-2" style="  display:table-cell;">
-        <img class="resume-icon-img" src="<?php echo get_template_directory_uri(); ?>/static/search.png">
+        <img class="resume-icon-img" src="<?php echo get_template_directory_uri(); ?>/static/data.png">
       </div>
       <div class="col-md-4" style="vertical-align:top; ">
         <div style="float:right; display:inline;"><p>It is a lot of fun. This present moment is perfect simply due to the fact you're experiencing it. Just a happy little shadow that lives in there. Tree trunks grow however makes them happy. You are only limited by your imagination. It's all a game of angles.
