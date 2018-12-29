@@ -3,8 +3,8 @@
   <div class="row">
     <div class="col-md-12">
           <h1>My Current Projects</h1>
-      <p>These are the projects I’m currently working on, or very recently
-        finished. I’ll do my best to keep it updated.</p>
+          <p>These are the projects I’m currently working on, or very recently
+            finished. I’ll do my best to keep it updated.</p>
 
         <h5>Investigative reporting in the South</h5>
           <img class="project_image" src="http://localhost/wp-content/uploads/2016/10/170622_ohara_ire09_small-1024x683.jpg">
