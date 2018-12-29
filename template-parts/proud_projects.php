@@ -13,7 +13,6 @@
       </p>
       </div>
 
-
       <div class="col-md-4" style="vertical-align:top; ">
         <div class="square"></div>
       <br>

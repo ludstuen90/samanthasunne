@@ -33,8 +33,11 @@
 		if ( $split_array[3] == 'tutorials' ) {
 
 			get_template_part( 'template-parts/content', 'tutorials' );
+		}
 
-
+		elseif ($split_array[3] == 'projects' ) {
+						get_template_part( 'template-parts/content', 'projects' );
+			// code...
 		}
 		else{
 			the_content();
