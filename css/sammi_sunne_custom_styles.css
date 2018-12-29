@@ -21,7 +21,23 @@
   background-color: #555;
 }
 
+.news_banner {
+  width:100%;
+  margin-left: 55px;
+}
+
+@media(max-width: 900px) {
+  .news_banner {
+    margin-left: -20px;
+    width:125%;
+
+  }
+
+}
+
 @media(min-width: 900px) {
+
+
   .site-header-menu {
     position: fixed;
     right: 5%;

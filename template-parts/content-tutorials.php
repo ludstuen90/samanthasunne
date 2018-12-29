@@ -8,7 +8,7 @@
 
 </style>
 
- <div class="container">
+ <div class="container entry-content">
    <div class="row">
      <div class="col-lg-5">
      <h1>Tutorials</h1>
