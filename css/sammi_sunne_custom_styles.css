@@ -6,6 +6,10 @@
   background-color: #555;
 }
 
+.menu-toggle {
+  z-index: 1;
+}
+
 .resume-icon-img {
   display: block;
   object-fit: contain;
