@@ -1,29 +1,26 @@
 <div class="container  entry-content">
   <div class="row">
     <div class="col-md-12">
-  <h1> Recent Projects </h1>
+  <h1>  </h1>
 </div>
 </div>
 
   <div class="row">
       <div class="col-md-4" style="vertical-align:top; ">
-        <img class="proud-project-img" src="http://www.samanthasunne.com/wp-content/uploads/2010/09/president010.jpg">
-      <br>
-        <p>Let your imagination be your guide. Let's give him a friend too. Everybody needs a friend. The light is your friend. Preserve it. I really believe that if you practice enough you could paint the 'Mona Lisa' with a two-inch brush.
+		  <a href="https://thelensnola.org/2017/07/27/louisiana-das-offer-motorists-a-deal-write-us-a-check-and-well-dismiss-your-speeding-ticket/"><img class="proud-project-img" src="http://www.samanthasunne.com/wp-content/uploads/2019/01/ticket1.jpg"></a>
+        <p>Louisiana public defenders are underfunded, to the extent that a few offices closed up shop. One reason for the low funding is traffic diversion, <a href="https://thelensnola.org/2017/07/27/louisiana-das-offer-motorists-a-deal-write-us-a-check-and-well-dismiss-your-speeding-ticket/">a program prosecutors have utilized to divert money</a> from the court system to their own budgets.
       </p>
       </div>
 
       <div class="col-md-4" style="vertical-align:top; ">
-        <img class="proud-project-img" src="http://www.samanthasunne.com/wp-content/uploads/2010/09/president010.jpg">
-      <br>
-        <p>It is a lot of fun. This present moment is perfect simply due to the fact you're experiencing it. Just a happy little shadow that lives in there. Tree trunks grow however makes them happy. You are only limited by your imagination. It's all a game of angles.
+		  <a href="https://www.columbiamissourian.com/news/local/mu-s-office-of-student-conduct-handles-few-sex-offense/article_7a563993-be51-5c86-8fc7-4fd05429ff54.html"><img class="proud-project-img" src="http://www.samanthasunne.com/wp-content/uploads/2019/01/mizzou2.jpeg"></a>
+        <p>The counseling center at the University of Missouri received almost 100 reports of sex offenses one year, but the  disciplinary office received two. A lack of communication, unclear policies and discouragement led to <a href="https://www.columbiamissourian.com/news/local/mu-s-office-of-student-conduct-handles-few-sex-offense/article_7a563993-be51-5c86-8fc7-4fd05429ff54.html">victims rarely taking their cases to authorities.</a>
       </p>
       </div>
 
       <div class="col-md-4" style="vertical-align:top;">
-        <img class="proud-project-img" src="http://www.samanthasunne.com/wp-content/uploads/2010/09/president010.jpg">
-
-        <p>The only prerequisite is that it makes you happy. If it makes you happy then it's good. We'll put all the little clouds in and let them dance around and have fun. We tell people sometimes: we're like drug dealers, come into town and get everybody absolutely addicted to painting.</p>
+		  <a href="https://www.americanpressinstitute.org/publications/reports/strategy-studies/data-journalism/"><img class="proud-project-img" src="http://www.samanthasunne.com/wp-content/uploads/2019/01/api4.png"></a>
+		  <p>"Data" is a watchword now in the journalism field, but how can it be successfully integrated into newsrooms when staffs are already underfunded and overworked? Editors, publishers and CAR pioneers share their methods in this <a href="https://www.americanpressinstitute.org/publications/reports/strategy-studies/data-journalism/">strategy study for the American Press Institute.</a></p>
       </div>
   </div>
   <a href="projects/"><p>Click here</a> to see more projects.</p>
