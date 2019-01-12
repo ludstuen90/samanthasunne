@@ -3,114 +3,64 @@
   <div class="row">
     <div class="col-md-12">
           <h1>My Current Projects</h1>
-          <p>These are the projects I’m currently working on, or very recently
+          <p>These are  projects I’m currently working on, or recently
             finished. I’ll do my best to keep it updated.</p>
           </div>
         </div>
 
   <div class="row">
     <div class="col-md-6">
-        <h5 class="project-title">Investigative reporting in the South</h5>
-          <img class="project_image" src="http://localhost/wp-content/uploads/2016/10/170622_ohara_ire09_small-1024x683.jpg">
-          <p>I have received grants from <a href="http://fij.org/grants-awarded-3/">FIJ</a>, 
-            <a href="http://www.ire.org/blog/ire-news/2016/05/26/ire-announces-winners-freelance-fellowship-competi/">IRE</a> 
-            and <a href="http://projectword.org/fire/about">FIRE</a>
-            to undertake investigative reporting projects in Louisiana, Mississippi,
-            and hopefully Alabama. I'm currently working for national and metro
-            papers as well as much smaller outlets.</p>
-          <p><a href="http://thelensnola.org/2017/07/27/louisiana-das-offer-motorists-a-deal-write-us-a-check-and-well-dismiss-your-speeding-ticket/">My latest story</a> described a trend of district attorneys siphoning traffic ticket revenue into their own offices using programs designed to keep first-time offenders out of jail.</p>
-
-          <p>✉️  <a href="http://localhost/#contact">Get in touch</a> if you would
-            like to work with me.</p>
+        <h5 class="project-title">Investigative reporting</h5>
+		<p><img class="project_image" src="http://www.samanthasunne.com/wp-content/uploads/2019/01/la.jpg"></p>
+		<p>My main focus is freelance investigative reporting in Louisiana. I publish with New Orleans outlets as well as smaller, more local newspapers that desperately need more government accountability coverage. My story on traffic diversion won second place for Investigative Reporting at the New Orleans Press Club awards in 2018.</p>
+		<p>You can read all of my stories on <a href="samanthasunne.contently.com">my Contently portfolio</a> and <a href="mailto:samanthasunne@gmail.com">contact me</a> with freelance opportunities.</p>
       </div>
 
       <div class="col-md-6">
         <h5 class="project-title">Tools for Reporters</h5>
-        <img class="project_image" src="http://localhost/wp-content/uploads/2016/10/170622_ohara_ire09_small-1024x683.jpg">
-        <p>I publish a biweekly newsletter called
-          <a href="http://toolsforreporters.com/">Tools for Reporters</a>.
-          It's a summary of the pro's and con's (mostly pro's!) to a reporting tool
-          I think you should know about. It has been recommended by
-          <a href="https://www.poynter.org/news/fear-change-keeping-you-using-latest-and-greatest-tools">Poynter</a>,
-          <a href="https://web.archive.org/web/20151110004538/http://www.journaliststoolbox.org/archive/2015/08/other-journalism-research-pages.html">SPJ<a>, 
-            <a href="https://www.journalism.co.uk/tip-of-the-day/tip-bookmark-this-list-of-newsletters-to-keep-up-with-changes-in-the-media-industry/s419/a709093/" target="_blank" rel="noopener noreferrer" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://metahunt.co/hunt/tools-for-reporters/&amp;source=gmail&amp;ust=1476503203737000&amp;usg=AFQjCNGVd1Ot6w4itSFou6PXr8wh7GfdAw">the Lenfest Institute</a> and the inimitable
-            <a href="https://twitter.com/mkramer/status/743449409371922432">Melody Kramer</a>.</p>
-        <p>📫  <a href="http://toolsforreporters.us1.list-manage1.com/subscribe?u=118069a2ac8992474900c19a5&amp;id=a56707e913">Subscribe here</a>!</p>
+		  <a href="toolsforreporters.com"><img class="project_image" src="http://www.samanthasunne.com/wp-content/uploads/2019/01/logo447x150.jpg"></a>
+		  <p>I publish a <a href="toolsforreporters.com">newsletter</a> that introduces journalists to a useful new tool every other week. This project aims to help reporters keep up with the onslaught of digital development in an approachable, hands-on way. The newsletter has tripled in subscribers since 2017, and has been recommended by Poynter, the Society for Professional Journalists, and the Lenfest Institute.</p>
+        <p>📫  <a href="http://toolsforreporters.us1.list-manage1.com/subscribe?u=118069a2ac8992474900c19a5&amp;id=a56707e913">Subscribe to the newsletter</a></p>
       </div>
   </div>
 
   <div class="row">
     <div class="col-md-6">
-      <h5 class="project-title">SPJ Google News Lab trainer network</h5>
-      <img class="project_image" src="http://localhost/wp-content/uploads/2016/10/170622_ohara_ire09_small-1024x683.jpg">
-      <p>I travel around the country teaching
-        <a href="https://newslab.withgoogle.com/">Google News Lab</a> tools
-        to journalists, as part of professional development program by the
-        <a href="http://spj.org">Society for Professional Journalists</a>.
-        This training is FREE to newsrooms, universities and other journalism
-        organizations.</p>
-      <p>👾  Go <a href="http://www.spj.org/google.asp">here</a> to request a
-        free training and mention my name.</p>
-    </div>
+      <h5 class="project-title">Teaching and training</h5>
+      <img class="project_image" src="http://www.samanthasunne.com/wp-content/uploads/2016/10/170622_ohara_ire09_small.jpg">
+      <p>I teach journalism tools and techniques at conferences, universities, newsrooms and professional organizations, including through IRE, SPJ and the Google News Initiative, and American University in Washington, DC.</p>
+		<p>You can <a href="/tutorials/">find my tutorials here</a> or <a href="mailto:samanthasunne@gmail.com">contact me</a> for speaking engagements.</p>
+	  </div>
 
+    <div class="col-md-6">
+      <h5 class="project-title">Anti-misinformation advocacy</h5>
+      <img class="project_image" src="http://www.samanthasunne.com/wp-content/uploads/2019/01/misinfocon_yellow.png">
+      <p>I work on several ongoing projects relating to the current misinformation crisis. In 2018, I spoke on a "fake news" panel in Moscow, helped organize a MisinfoCon conference in London, and was invited to Harvard to brainstorm best practices with other anti-misinfo trainers. In 2017, I gave a talk about threat modeling against misinformation in Serbia.</p>
+		<p>✍️ <a href="mailto:samantha@hackshackers.com">Send me your pitches for MisinfoCon</a></p>
+    </div>
+  </div>
+
+  <div class="row">
     <div class="col-md-6">
       <h5 class="project-title">Hacks/Hackers</h5>
-      <img class="project_image" src="http://localhost/wp-content/uploads/2012/05/Photo9-e1338128940248.jpg">
-      <p>I do a lot of various projects for <a href="http://hackshackers.com/">Hacks/Hackers</a>,
-        a global nonprofit that fosters innovation in journalism and technology. This involves
-        managing more than 100 individual chapters around the world, maintaining the website
-        and communications, and interfacing at conferences. I also founded the
-        <a href="http://www.meetup.com/Hacks-Hackers-New-Orleans/">local chapter
-          here in New Orleans</a>.</p>
-    </div>
-  </div>
-
-  <div class="row">
-    <div class="col-md-6">
-      <h5 class="project-title">MisinfoCon</h5>
-      <img class="project_image" src="http://localhost/wp-content/uploads/2016/10/170622_ohara_ire09_small-1024x683.jpg">
-      <p>I curate <a href="http://misinfocon.com">MisinfoCon</a>, a website
-        that publishes articles and essays on how to find and fight fake news
-        and misinformation.</p>
-      <p>🖌  <a href="https://misinfocon.com/misinfocon-wants-your-pitches-misinformation-events-grants-and-more-6ca844d2ac10">
-        Pitch me here</a>!</p>
+      <img class="project_image" src="http://www.samanthasunne.com/wp-content/uploads/2019/01/hackshackers_logotype-stacked.png">
+      <p>I head communications for Hacks/Hackers, the world's largest journalism/tech association with 115 chapters around the globe. In 2018 I helped launch new chapters in Moscow, Rome, Jakarta and Benin. I also co-founded the local Hacks/Hackers New Orleans chapter in 2016. If you have questions about Hacks/Hackers or would like to join a chapter, please contact me at samantha@hackshackers.com.</p>
+      <p>🏘 <a href="https://www.meetup.com/Hacks-Hackers-New-Orleans/">Join Hacks/Hackers New Orleans</a></p>
     </div>
     <div class="col-md-6">
-      <h5 class="project-title">Articles about data, journalism, and data
-        journalism</h5>
-        <img class="project_image" src="http://localhost/wp-content/uploads/2016/10/170622_ohara_ire09_small-1024x683.jpg">
-      <p class="p1">I occasionally write for Poynter, Source, the American
-        Press Institute and other publications on what's new in the worlds of
-        data, journalism and data journalism. You can check
-        <a href="https://samanthasunne.contently.com/">my Contently
-          portfolio</a> for the latest.</p>
+      <h5 class="project-title">Articles for journalists</h5>
+        <img class="project_image" src="http://www.samanthasunne.com/wp-content/uploads/2019/01/articles.jpeg">
+      <p>I occasionally write articles for journalists, mostly published in news industry publications. These have been published in Poynter, Open News, the Global Investigative Journalism Network and other sites. My articles can be found on <a href="samanthasunne.contently.com">my Contently portfolio</a>, and I am available for freelance work at samanthasunne@gmail.com.</p>
     </div>
   </div>
 
 
   <div class="row">
     <div class="col-md-6">
-      <h5 class="project-title">Stanford Open Policing Project</h5>
-      <img class="project_image" src="http://localhost/wp-content/uploads/2016/10/170622_ohara_ire09_small-1024x683.jpg">
-      <p>I was accepted to work with <a href="https://openpolicing.stanford.edu/">
-        Poynter and Stanford</a> on a project turning an extensive collection
-        of open data into journalism projects centering on police traffic stops.
-        I am focusing on Missouri and Texas. Please
-        <a href="http://localhost/#contact">get in touch</a> if you would like
-        to work with me.</p>
+      <h5 class="project-title">What else?</h5>
+      <img class="project_image" src="http://www.samanthasunne.com/wp-content/uploads/2019/01/talking.jpg">
+      <p>As of January 2019, I'm helping Emojination add more representative emojis to the Unicode library. In 2016, I participated in the Berlin Capital Program of the Fulbright Commission, and in 2018, did a similar trip in Moscow with Creative Diplomacy. I taught myself Swedish but mostly forgot it, and learned Spanish and forgot only some of it. I am also working on reaching Level 2 in Krav Maga 🙇‍♂️</p>
     </div>
-
-    <div class="col-md-6">
-      <h5 class="project-title">Fulbright</h5>
-      <img class="project_image" src="http://localhost/wp-content/uploads/2016/10/170622_ohara_ire09_small-1024x683.jpg">
-      <p>Last November I traveled to Berlin on a
-        <a href="https://www.fulbright.de/programs-for-u-s-americans/journalists/berlin-capital-program"> Fulbright</a> 
-        program, where I spent a week discussing media innovation with German 
-        press and political leaders.</p>
-      <p>This year I will be in Eastern Europe, the East Coast of the U.S.,
-        and some other places besides. If you will be there too, let's meet up!</p>
-    </div>
-
   </div>
 
 </div>
