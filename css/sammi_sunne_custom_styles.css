@@ -23,6 +23,11 @@
   padding-bottom: 15px;
 }
 
+.news_div {
+margin-left: 65px;
+
+}
+
 .news_banner img {
   display: inline-block;
   width: 18.5%;
