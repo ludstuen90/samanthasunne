@@ -8,6 +8,7 @@
 
 .resume-icon-img {
   display: block;
+  object-fit: contain;
   margin-left: auto;
   margin-right: auto;
   height: 111px;
