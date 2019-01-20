@@ -12,7 +12,7 @@
     <div class="col-md-6">
         <h5 class="project-title">Investigative reporting</h5>
 		<p><img class="project_image" src="http://www.samanthasunne.com/wp-content/uploads/2019/01/la.jpg"></p>
-		<p>My main focus is freelance investigative reporting in Louisiana. I publish with New Orleans outlets as well as smaller, more local newspapers that desperately need more government accountability coverage. My story on traffic diversion won second place for Investigative Reporting at the New Orleans Press Club awards in 2018.</p>
+		<p>My main focus is freelance investigative reporting in Louisiana. I publish with New Orleans outlets as well as smaller, more local newspapers that desperately need more government accountability coverage. In 2018, I won second place for Investigative Reporting at the New Orleans Press Club awards, and in 2019 I was named one of the 100 most influential people in tech in Louisiana.</p>
 		<p>You can read all of my stories on <a href="samanthasunne.contently.com">my Contently portfolio</a> and <a href="mailto:samanthasunne@gmail.com">contact me</a> with freelance opportunities.</p>
       </div>
 
