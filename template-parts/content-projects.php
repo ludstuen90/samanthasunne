@@ -18,7 +18,7 @@
 
       <div class="col-md-6">
         <h5 class="project-title">Tools for Reporters</h5>
-		  <a href="toolsforreporters.com"><img class="project_image" src="http://www.samanthasunne.com/wp-content/uploads/2019/01/logo447x150.jpg"></a>
+		  <a href="http://toolsforreporters.com/"><img class="project_image" src="http://www.samanthasunne.com/wp-content/uploads/2019/01/logo447x150.jpg"></a>
 		  <p>I publish a <a href="toolsforreporters.com">newsletter</a> that introduces journalists to a useful new tool every other week. This project aims to help reporters keep up with the onslaught of digital development in an approachable, hands-on way. The newsletter has tripled in subscribers since 2017, and has been recommended by Poynter, the Society for Professional Journalists, and the Lenfest Institute.</p>
         <p>📫  <a href="http://toolsforreporters.us1.list-manage1.com/subscribe?u=118069a2ac8992474900c19a5&amp;id=a56707e913">Subscribe to the newsletter</a></p>
       </div>
