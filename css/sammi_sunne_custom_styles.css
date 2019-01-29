@@ -50,9 +50,14 @@ margin-left: 65px;
 
 }
 
+
+@media(min-width: 990px){
+    .container{
+    padding-right: 120px !important;
+    }
+}
+
 @media(min-width: 900px) {
-
-
   .site-header-menu {
     position: fixed;
     right: 5%;
