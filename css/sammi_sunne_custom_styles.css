@@ -67,8 +67,12 @@ margin-left: 65px;
     padding-bottom: 2.rem;
     }
 
-    .header-image {
+.header-image {
     margin-top: 20px;
+    width: 50%;
+    margin-right: auto;
+     margin-left: auto;
+     transform: scale(0.80);
 }
 
 .file_image {
