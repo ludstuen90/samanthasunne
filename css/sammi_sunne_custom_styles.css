@@ -40,8 +40,10 @@ margin-left: 65px;
 }
 
 @media(max-width: 909px) {
+  .content-area{
+    width: 75%;
+  }
   .news_banner img {
-
     padding-top: 45px;
     margin-left: 20%;
     width: 55%;
