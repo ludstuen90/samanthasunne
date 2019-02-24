@@ -25,14 +25,24 @@
      <table>
 <tbody>
 <tr>
-<td><a href="https://www.meetup.com/Hacks-Hackers-Miami/">Hacks/Hackers Miami</a></td>
-<td>Miami, FL</td>
+<td><a href="https://qiqochat.com/e/civictech/2019">OpenGov and CivicTech Online Conference</a></td>
+<td>Online</td>
+<td>February 2019</td>
+</tr>
+<tr>
+<td><a href="http://jomc.unc.edu/">University of North Carolina</a></td>
+<td>Online</td>
 <td>February 2019</td>
 </tr>
 <tr>
 <td><a href="https://www.ire.org/conferences/nicar-2019/">NICAR</a></td>
 <td>Newport Beach, CA</td>
 <td>March 2019</td>
+</tr>
+<tr>
+<td><a href="https://www.meetup.com/Hacks-Hackers-Miami/">Hacks/Hackers Miami</a></td>
+<td>Miami, FL</td>
+<td>TBD 2019</td>
 </tr>
 </tbody>
 </table>
