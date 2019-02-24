@@ -66,6 +66,18 @@ margin-left: 65px;
     }
 }
 
+
+@media(min-width: 650px){
+  .header-image {
+      margin: 8% 0 8% 0;
+      width: 50%;
+      margin-right: auto;
+       margin-left: auto;
+       transform: scale(1.3);
+  }
+}
+
+
 @media(min-width: 900px) {
   .site-header-menu {
     position: fixed;
