@@ -1,4 +1,4 @@
-<div class="container  entry-content">
+<div class="container  entry-content resume-content">
   <div class="row">
     <div class="col-md-12">
   <h1> Resume</h1>
