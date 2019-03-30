@@ -30,8 +30,6 @@
 
 .news_div {
 margin-top: 5px;
-margin-left: 65px;
-
 }
 
 .news_banner img {
@@ -63,6 +61,13 @@ margin-left: 65px;
   .news_banner img {
   margin: 3% 0 3% 0;
 }
+
+
+.news_div {
+  margin-left: 65px;
+
+}
+
     .container{
     padding-right: 120px !important;
     }
