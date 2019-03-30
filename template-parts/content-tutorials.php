@@ -30,19 +30,34 @@
 <td>February 2019</td>
 </tr>
 <tr>
-<td><a href="http://jomc.unc.edu/">University of North Carolina</a></td>
-<td>Online</td>
-<td>February 2019</td>
-</tr>
-<tr>
-<td><a href="https://www.ire.org/conferences/nicar-2019/">NICAR</a></td>
+<td><a href="https://www.ire.org/conferences/nicar-2019/">NICAR Conference</a></td>
 <td>Newport Beach, CA</td>
 <td>March 2019</td>
 </tr>
 <tr>
+<td><a href="https://www.eventbrite.com/e/spj-region-7-conference-tickets-55118616265">SPJ Region 7 Conference</a></td>
+<td>Warrensburg, MO</td>
+<td>April 2019</td>
+</tr>
+<tr>
 <td><a href="https://www.meetup.com/Hacks-Hackers-Miami/">Hacks/Hackers Miami</a></td>
 <td>Miami, FL</td>
-<td>TBD 2019</td>
+<td>May 2019</td>
+</tr>
+<tr>
+<td><a href="https://combeyond.bu.edu/workshop/data-narrative/">Boston University</a></td>
+<td>Boston, MA</td>
+<td>June 2019</td>
+</tr>
+<tr>
+<td><a href="https://www.ire.org/events-and-training/conferences/ire-2019/">IRE Conference</a></td>
+<td>Houston, TX</td>
+<td>June 2019</td>
+</tr>
+<tr>
+<td><a href="https://www.american.edu/soc/discover/">American University</a></td>
+<td>Washington, DC</td>
+<td>June 2019</td>
 </tr>
 </tbody>
 </table>
