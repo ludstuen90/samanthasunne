@@ -11,7 +11,6 @@
 <meta name="twitter:description" content="Tutorials by Samantha Sunne, journalism trainer and freelancer." />
 <meta name="twitter:image" content="https://www.samanthasunne.com/wp-content/uploads/2016/10/170622_ohara_ire09_small-1200x800.jpg" />
 
-
 <style>
 .container {
   width: 175%;
@@ -21,17 +20,17 @@
 
  <div class="container entry-content">
    <div class="row">
+     <div class="col-lg-12">
+       <h1>Upcoming Workshops</h1>
+     </div>
+   </div>
+   <div class="row">
      <div class="col-lg-5">
-     <h1>Tutorials</h1>
      <img  src="/wp-content/uploads/2016/10/170622_ohara_ire09_small-1200x800.jpg">
-
 
      </div>
 
      <div class="col-lg-7">
-       <br>
-     <p> </p>
-     <p><b>Upcoming Appearances:</p></b>
      <table>
 <tbody>
 	<tr>
@@ -94,7 +93,7 @@
 
 <!-- This is Row 2-->
 	 <div class="row">
-    
+
     <div class="col-md-4">
        <a href="https://docs.google.com/presentation/d/e/2PACX-1vQMTheumShdIjFbGnSsStI0SS6Jgz6LsVBWt1u0GIjlmr2vymIe3RwjVWYB8BV-YQqvyxP9iLQClntM/pub?start=false&loop=false&delayms=3000"><img style="width:100%" src="https://www.samanthasunne.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-19-at-10.36.40-AM.png"></a>
      <a href="https://docs.google.com/presentation/d/e/2PACX-1vQMTheumShdIjFbGnSsStI0SS6Jgz6LsVBWt1u0GIjlmr2vymIe3RwjVWYB8BV-YQqvyxP9iLQClntM/pub?start=false&loop=false&delayms=3000"><b>Make Your Own Google Map</b></a>
@@ -136,7 +135,7 @@
      <p>Misinformation is a growing force in the digital-first world of journalism, and a source of some panic from reporters and audiences alike. This talk from 2017 outlines a few paths forward, including making attempts to understand the motivation behind fake news-spreaders.</p>
 <p>This talk is also available as a video from <a href="https://media.lugons.org/BalCCon2k17/BalCCon2k17_Samantha_Sunne_-_Hacking_for_Journalism.mp4">BalCCon</a>.</p>
      </div>
-     
+
      <div class="col-md-4">
      <a href="https://gijn.org/2018/05/28/what-to-watch-for-in-the-coming-wave-of-deep-fake-videos/"><img style="width:100%" src="https://www.samanthasunne.com/wp-content/uploads/2019/01/deep-fakes.jpg"></a>
      <a href="https://gijn.org/2018/05/28/what-to-watch-for-in-the-coming-wave-of-deep-fake-videos/"><b>What to look for in deep fake videos</b></a>
@@ -164,6 +163,6 @@
        <p>University campuses provide a unique hunting ground for investigative stories. This tipsheet explains some of the most common and accessible sources for breaking in to these closed communities, including CLERY reports, Title IX complaints, FERPA exceptions and FBI UCR statistics.</p>
 <p>Warning: this tipsheet was published in 2014 and may be out of date.</p>
      </div>
-     
+
  </div>
  <!-- This is the end of Row 4-->
