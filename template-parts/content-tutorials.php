@@ -59,7 +59,6 @@
      </div>
    </div>
  </div>
-<br>
 
 <div class="news_banner news_div">
   <img class="news_banner" src="https://www.samanthasunne.com/wp-content/uploads/2020/05/BU_rectangle_116.png" ></img>
