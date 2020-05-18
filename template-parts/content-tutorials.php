@@ -11,7 +11,6 @@
 <meta name="twitter:description" content="Tutorials by Samantha Sunne, journalism trainer and freelancer." />
 <meta name="twitter:image" content="https://www.samanthasunne.com/wp-content/uploads/2016/10/170622_ohara_ire09_small-1200x800.jpg" />
 
-
 <style>
 .container {
   width: 175%;
@@ -27,16 +26,11 @@
    </div>
    <div class="row">
      <div class="col-lg-5">
-     <!-- <h1>Tutorials</h1> -->
      <img  src="/wp-content/uploads/2016/10/170622_ohara_ire09_small-1200x800.jpg">
-
 
      </div>
 
      <div class="col-lg-7">
-       <!-- <br>
-     <p> </p>
-     <p><b>Upcoming Appearances:</p></b> -->
      <table>
 <tbody>
 	<tr>
