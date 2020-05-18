@@ -58,13 +58,24 @@
 
      </div>
    </div>
+ </div>
 <br>
+
+<div class="news_banner news_div">
+  <img class="news_banner" src="https://www.samanthasunne.com/wp-content/uploads/2020/05/BU_rectangle_116.png" ></img>
+  <img class="news_banner" src="https://www.samanthasunne.com/wp-content/uploads/2020/05/au_rectangle_116.png" ></img>
+  <img class="news_banner" src="https://www.samanthasunne.com/wp-content/uploads/2020/05/spj_rectangle_116.png" ></img>
+  <img class="news_banner" src="https://www.samanthasunne.com/wp-content/uploads/2020/05/gni_rectangle_116.png"</img>
+  <img class="news_banner" src="https://www.samanthasunne.com/wp-content/uploads/2020/05/IRE_rectangle_116.png" </img>
+</div>
+<br>
+
+<div class="container entry-content">
    <div class="row">
     <div class="col-md-12">
       <h1>Online Tutorials</h1>
     </div>
    </div>
-
 <!-- This is Row 1-->
    <div class="row">
 
