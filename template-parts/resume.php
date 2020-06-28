@@ -25,5 +25,5 @@
         <p>Almost five years experience in training students and reporters in hands-on, easy-to-use tools for journalism. Frequent speaker for IRE/NICAR, American University and SPJ/Google News Initiative.</p>
       </div>
   </div>
-	 <a href="https://www.samanthasunne.com/wp-content/uploads/2012/09/freelance_resume_2015.pdf"><p>Click here</a> to see a full resume.</p>
+	 <a href="wp-content/uploads/2020/06/freelance_resume_2015.pdf"><p>Click here</a> to see a full resume.</p>
   </div>
