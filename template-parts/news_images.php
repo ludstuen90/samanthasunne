@@ -1,7 +1,7 @@
 <div class="news_banner news_div">
-  <img class="news_banner" src="wp-content/uploads/2016/10/wapo.png" ></img>
-  <img class="news_banner" src="wp-content/uploads/2016/09/reuters.png" ></img>
-  <img class="news_banner" src="wp-content/uploads/2016/09/source.png" ></img>
-  <img class="news_banner" src="wp-content/uploads/2016/09/api.png"</img>
-  <img class="news_banner" src="wp-content/uploads/2016/09/npr.png" </img>
+  <img class="news_banner" src="wp-content/uploads/2020/06/wapo.png" ></img>
+  <img class="news_banner" src="wp-content/uploads/2020/06/reuters.png" ></img>
+  <img class="news_banner" src="wp-content/uploads/2020/06/source.png" ></img>
+  <img class="news_banner" src="wp-content/uploads/2020/06/api.png"</img>
+  <img class="news_banner" src="wp-content/uploads/2020/06/npr.png" </img>
 </div>
