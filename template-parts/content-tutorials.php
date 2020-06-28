@@ -105,7 +105,7 @@
 	 <div class="row">
 
     <div class="col-md-4">
-       <a href="https://docs.google.com/presentation/d/e/2PACX-1vQMTheumShdIjFbGnSsStI0SS6Jgz6LsVBWt1u0GIjlmr2vymIe3RwjVWYB8BV-YQqvyxP9iLQClntM/pub?start=false&loop=false&delayms=3000"><img style="width:100%" src="wp-content/uploads/2020/06/Screen-Shot-2020-02-19-at-10.36.40-AM.png"></a>
+       <a href="https://docs.google.com/presentation/d/e/2PACX-1vQMTheumShdIjFbGnSsStI0SS6Jgz6LsVBWt1u0GIjlmr2vymIe3RwjVWYB8BV-YQqvyxP9iLQClntM/pub?start=false&loop=false&delayms=3000"><img style="width:100%" src="../wp-content/uploads/2020/06/Screen-Shot-2020-02-19-at-10.36.40-AM.png"></a>
      <a href="https://docs.google.com/presentation/d/e/2PACX-1vQMTheumShdIjFbGnSsStI0SS6Jgz6LsVBWt1u0GIjlmr2vymIe3RwjVWYB8BV-YQqvyxP9iLQClntM/pub?start=false&loop=false&delayms=3000"><b>Make Your Own Google Map</b></a>
        <p>Did you know you can make your own Google Map - in 5 to 10 minutes? This tutorial shows you how, plus advanced options like customization and data organization.</p>
      <p>This guide was created for the Boston University <a href="https://combeyond.bu.edu/workshop/data-narrative/">Data + Narrative workshop</a>.</p>
