@@ -26,7 +26,7 @@
    </div>
    <div class="row">
      <div class="col-lg-5">
-     <img  src="/wp-content/uploads/2016/10/170622_ohara_ire09_small-1200x800.jpg">
+     <img  src="wp-content/uploads/2020/06/170622_ohara_ire09_small-1200x800-1.jpg">
 
      </div>
 
@@ -61,11 +61,11 @@
  </div>
 
 <div class="news_banner news_div">
-  <img class="news_banner" src="wp-content/uploads/2020/06/BU_rectangle_116.png" ></img>
-  <img class="news_banner" src="wp-content/uploads/2020/06/au_rectangle_116.png" ></img>
-  <img class="news_banner" src="wp-content/uploads/2020/06/spj_rectangle_116.png" ></img>
-  <img class="news_banner" src="wp-content/uploads/2020/06/gni_rectangle_116.png"</img>
-  <img class="news_banner" src="wp-content/uploads/2020/06/IRE_rectangle_116.png" </img>
+  <img class="news_banner" src="../wp-content/uploads/2020/06/BU_rectangle_116.png" ></img>
+  <img class="news_banner" src="../wp-content/uploads/2020/06/au_rectangle_116.png" ></img>
+  <img class="news_banner" src="../wp-content/uploads/2020/06/spj_rectangle_116.png" ></img>
+  <img class="news_banner" src="../wp-content/uploads/2020/06/gni_rectangle_116.png"</img>
+  <img class="news_banner" src="../wp-content/uploads/2020/06/IRE_rectangle_116.png" </img>
 </div>
 <br>
 
