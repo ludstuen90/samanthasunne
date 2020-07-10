@@ -7,6 +7,8 @@
 }
 
 
+
+
 .resume-content {
     margin: 4% 0 4% 0;
 }
@@ -62,6 +64,9 @@ margin-top: 5px;
   margin: 3% 0 3% 0;
 }
 
+#masthead {
+  padding-bottom: 0px;
+}
 
 .news_div {
   margin-left: 65px;
