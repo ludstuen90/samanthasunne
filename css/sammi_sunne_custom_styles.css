@@ -5,7 +5,9 @@
   display: inline-block;
   background-color: #555;
 }
-
+.site-content {
+  margin-bottom: 1.5em;
+}
 
 .resume-content {
     margin: 4% 0 4% 0;

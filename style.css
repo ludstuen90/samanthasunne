@@ -3398,17 +3398,17 @@ p > video {
 
 @media screen and (min-width: 61.5625em) {
 	.site-main {
-		margin-bottom: 7.0em;
+		margin-bottom: 0.0em;
 	}
 
 	.site-header {
-		padding: 5.25em 4.5455%;
+		padding: 0em 4.5455%;
 	}
 
 	.site-branding,
 	.site-header-menu,
 	.header-image {
-		margin-top: 1.75em;
+		margin-top: 0em;
 		margin-bottom: 1.75em;
 	}
 
