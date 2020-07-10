@@ -54,7 +54,29 @@ margin-top: 5px;
     display: inline-block;
   }
 
+
+/* This set of rules exists to make mobile text
+appear center justified */
+  p {
+    text-align: center;
+  }
+
+  .entry-content {
+    margin: 0 0 0 0;
+    padding-left: 25%;
+  }
+
+
+
+  .row{
+    padding-right: 0px !important;
+    padding-left: 25% !important;
+  }
+
 }
+
+
+
 
 
 @media(min-width: 990px){

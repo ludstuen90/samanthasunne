@@ -32,7 +32,7 @@
 
      <div class="col-lg-7">
      <table>
-<tbody>
+<tbody class="entry-content">
 	<tr>
 <td><a href="https://ire.org/conferences/nicar-2020">NICAR</a></td>
 <td>New Orleans, LA</td>
@@ -60,7 +60,7 @@
    </div>
  </div>
 
-<div class="news_banner news_div">
+<div class="news_banner news_div entry-content">
   <img class="news_banner" src="../wp-content/uploads/2020/06/BU_rectangle_116.png" ></img>
   <img class="news_banner" src="../wp-content/uploads/2020/06/au_rectangle_116.png" ></img>
   <img class="news_banner" src="../wp-content/uploads/2020/06/spj_rectangle_116.png" ></img>
