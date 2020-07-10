@@ -41,11 +41,11 @@ margin-top: 5px;
 
 @media(max-width: 909px) {
   .content-area{
-    width: 75%;
+    width: 70%;
   }
   .news_banner img {
     padding-top: 45px;
-    margin-left: 20%;
+    margin-left: 30%;
     width: 55%;
     float: left;
     clear: both;
@@ -56,7 +56,33 @@ margin-top: 5px;
     display: inline-block;
   }
 
+
+/* This set of rules exists to make mobile text
+appear center justified */
+  p {
+    text-align: center;
+  }
+
+  .entry-content {
+    margin: 0 0 0 10%;
+    padding-left: 5%;
+    padding-right: 0px;
+  }
+
+
+
+  .row {
+    padding-right: 0px !important;
+    padding-left: 5% !important;
+    margin-left: 10% !important;
+    margin-right: -22% !important;
+
+  }
+
 }
+
+
+
 
 
 @media(min-width: 990px){

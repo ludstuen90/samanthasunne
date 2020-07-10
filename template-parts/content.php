@@ -20,7 +20,6 @@
 	<?php twentysixteen_excerpt(); ?>
 
 	<?php twentysixteen_post_thumbnail(); ?>
-
 	<div class="entry-content">
 		<?php
 			/* translators: %s: Name of current post */
