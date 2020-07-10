@@ -23,5 +23,6 @@
 		  <p>"Data" is a watchword now in the journalism field, but how can it be successfully integrated into newsrooms when staffs are already underfunded and overworked? Editors, publishers and CAR pioneers share their methods in this <a href="https://www.americanpressinstitute.org/publications/reports/strategy-studies/data-journalism/">strategy study for the American Press Institute.</a></p>
       </div>
   </div>
+  <br>
   <a href="projects/"><p>Click here</a> to see more projects.</p>
   </div>
