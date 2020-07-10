@@ -9,6 +9,8 @@
   margin-bottom: 1.5em;
 }
 
+
+
 .resume-content {
     margin: 4% 0 4% 0;
 }
@@ -90,6 +92,9 @@ appear center justified */
   margin: 3% 0 3% 0;
 }
 
+#masthead {
+  padding-bottom: 0px;
+}
 
 .news_div {
   margin-left: 65px;
