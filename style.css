@@ -3402,13 +3402,13 @@ p > video {
 	}
 
 	.site-header {
-		padding: 5.25em 4.5455%;
+		padding: 0em 4.5455%;
 	}
 
 	.site-branding,
 	.site-header-menu,
 	.header-image {
-		margin-top: 1.75em;
+		margin-top: 0em;
 		margin-bottom: 1.75em;
 	}
 
