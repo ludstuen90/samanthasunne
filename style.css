@@ -3398,7 +3398,7 @@ p > video {
 
 @media screen and (min-width: 61.5625em) {
 	.site-main {
-		margin-bottom: 7.0em;
+		margin-bottom: 0.0em;
 	}
 
 	.site-header {
