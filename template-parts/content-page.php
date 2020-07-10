@@ -18,7 +18,7 @@
 
 
 	<?php if(is_front_page()): ?>
-		<div class="entry-content row">
+		<div class="entry-content">
 		<?php endif; ?>
 		<?php
 
