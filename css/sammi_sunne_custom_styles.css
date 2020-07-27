@@ -10,6 +10,24 @@
 }
 
 
+.menu-toggle {
+  background-color: #000000;
+  color: #FFFFFF;
+}
+
+.menu-main-navigation-container {
+  background-color: #000000;
+}
+.main-navigation a {
+  color: #FFFFFF !important
+
+}
+
+
+.menu-toggle {
+  background-color: #000000;
+}
+
 
 .resume-content {
     margin: 4% 0 4% 0;
@@ -156,9 +174,7 @@ body p, h1, h2, h3, h4, h5 {
    color: #29aa7b !important;
 }
 
-.main-navigation a {
-    color: #1a1a1a !important;
-  }
+
 .project_image {
   width: 100%;
   padding-bottom: 15px;
