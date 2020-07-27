@@ -9,7 +9,9 @@
   margin-bottom: 1.5em;
 }
 
-
+table.upcoming-appearances-table  {
+  border-collapse: separate;
+}
 
 .resume-content {
     margin: 4% 0 4% 0;
