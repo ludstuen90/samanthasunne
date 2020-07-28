@@ -31,7 +31,7 @@
      </div>
 
      <div class="col-lg-7">
-     <table>
+     <table class="upcoming-appearances-table">
 <tbody class="entry-content">
 	<tr>
 <td><a href="https://ire.org/conferences/nicar-2020">NICAR</a></td>
