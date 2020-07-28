@@ -43,21 +43,30 @@ margin-top: 5px;
   width: 18.5%;
 }
 
+
+
+
 @media(max-width: 909px) {
   .content-area{
-    width: 70%;
+    width: 93%;
+    margin-left: -13%;
+
   }
   .news_banner img {
     padding-top: 45px;
-    margin-left: 30%;
+    margin-left: 20%;
     width: 55%;
     float: left;
     clear: both;
+  }
+  .news_div {
+    padding-bottom: 15%;
   }
 
   .news_banner {
     clear: both;
     display: inline-block;
+
   }
 
 
@@ -107,7 +116,14 @@ appear center justified */
     padding-right: 120px !important;
     }
 }
+@media(max-width: 325px) {
 
+
+/*added for iphone 5s compatibility, resume link on last item of homepage */
+.entry-content > :last-child {
+  margin-left: 20%;
+}
+}
 
 @media(min-width: 650px){
   .header-image {
