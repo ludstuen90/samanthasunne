@@ -54,8 +54,8 @@ margin-top: 5px;
   }
   .news_banner img {
     padding-top: 45px;
-    margin-left: 20%;
-    width: 55%;
+    margin-left: 13%;
+    width: 75%;
     float: left;
     clear: both;
   }
@@ -123,6 +123,11 @@ appear center justified */
 .entry-content > :last-child {
   margin-left: 20%;
 }
+
+.entry-content:first-of-type  > :last-child {
+  margin-left: 0%;
+}
+
 }
 
 @media(min-width: 650px){
