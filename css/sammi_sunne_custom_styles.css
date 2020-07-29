@@ -14,12 +14,19 @@
   color: #FFFFFF;
 }
 
-.menu-main-navigation-container {
+.primary-footer-menu a p {
+  color: #000000;
+}
+.primary-footer-menu {
+  background-color: #FFFFFF;
+}
+
+#site-navigation {
   background-color: #000000;
 }
 
-.main-navigation a {
-  color: #FFFFFF !important
+#site-navigation a {
+  color: #FFFFFF ;
 }
 
 .menu-toggle {
@@ -60,8 +67,6 @@ margin-top: 5px;
   width: 18.5%;
 }
 
-
-
 @media(max-width: 909px) {
 
   .menu-toggle:hover,
@@ -70,9 +75,9 @@ margin-top: 5px;
     color: #FFFFFF;
   }
 
-.main-navigation a:hover {
-  color: #29aa7b !important;
-}
+  .main-navigation a:hover {
+    color: #29aa7b !important;
+  }
 
 
   .menu-toggle.toggled-on, .menu-toggle.toggled-on:hover,
@@ -105,7 +110,6 @@ margin-top: 5px;
 
   }
 
-
 /* This set of rules exists to make mobile text
 appear center justified */
   p {
@@ -118,8 +122,6 @@ appear center justified */
     padding-right: 0px;
   }
 
-
-
   .row {
     padding-right: 0px !important;
     padding-left: 5% !important;
@@ -130,35 +132,29 @@ appear center justified */
 
 }
 
-
-
-
-
 @media(min-width: 990px){
   .news_banner img {
   margin: 3% 0 3% 0;
+  }
+
+  #masthead {
+    padding-bottom: 0px;
+  }
+
+  .news_div {
+    margin-left: 65px;
+
 }
-
-#masthead {
-  padding-bottom: 0px;
-}
-
-.news_div {
-  margin-left: 65px;
-
-}
-
     .container{
     padding-right: 120px !important;
     }
 }
+
 @media(max-width: 325px) {
-
-
-/*added for iphone 5s compatibility, resume link on last item of homepage */
-.entry-content > :last-child {
-  margin-left: 20%;
-}
+  /*added for iphone 5s compatibility, resume link on last item of homepage */
+  .entry-content > :last-child {
+    margin-left: 20%;
+  }
 }
 
 @media(min-width: 650px){
@@ -171,7 +167,6 @@ appear center justified */
   }
 }
 
-
 @media(min-width: 900px) {
   .site-header-menu {
     position: fixed;
@@ -182,29 +177,26 @@ appear center justified */
     padding-bottom: 2.rem;
     }
 
-.header-image {
-    margin: 8% 0 8% 0;
-    width: 50%;
-    margin-right: auto;
-     margin-left: auto;
-     transform: scale(0.80);
-}
+  .header-image {
+      margin: 8% 0 8% 0;
+      width: 50%;
+      margin-right: auto;
+       margin-left: auto;
+       transform: scale(0.80);
+  }
 
-.file_image {
-  width: 30%;
-  margin-right: 100px;
-  margin-bottom: 75px;
-  display: inline-block;
-  float: left;
-}
+  .file_image {
+    width: 30%;
+    margin-right: 100px;
+    margin-bottom: 75px;
+    display: inline-block;
+    float: left;
+  }
 
 }
 body p, h1, h2, h3, h4, h5 {
       font-family: Merriweather, Georgia, serif; !important
 }
-
-
-
 
 
 .project_image {
