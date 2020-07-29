@@ -9,7 +9,6 @@
   margin-bottom: 1.5em;
 }
 
-
 .menu-toggle {
   background-color: #000000;
   color: #FFFFFF;
@@ -18,16 +17,18 @@
 .menu-main-navigation-container {
   background-color: #000000;
 }
+
 .main-navigation a {
   color: #FFFFFF !important
-
 }
-
 
 .menu-toggle {
   background-color: #000000;
 }
 
+table.upcoming-appearances-table  {
+  border-collapse: separate;
+}
 
 .resume-content {
     margin: 4% 0 4% 0;
@@ -59,21 +60,49 @@ margin-top: 5px;
   width: 18.5%;
 }
 
+
+
 @media(max-width: 909px) {
+
+  .menu-toggle:hover,
+  .menu-toggle:focus {
+    background-color: #000000;
+    color: #FFFFFF;
+  }
+
+.main-navigation a:hover {
+  color: #29aa7b !important;
+}
+
+
+  .menu-toggle.toggled-on, .menu-toggle.toggled-on:hover,
+  .menu-toggle.toggled-on:focus{
+    color: #29aa7b;
+  }
   .content-area{
-    width: 70%;
+    width: 93%;
+    margin-left: -13%;
+
   }
   .news_banner img {
     padding-top: 45px;
-    margin-left: 30%;
+    margin-left: 20%;
     width: 55%;
     float: left;
     clear: both;
   }
 
+  .main-navigation li {
+    padding-left: 25px;
+  }
+  .news_div {
+    padding-bottom: 15%;
+  }
+
   .news_banner {
     clear: both;
     display: inline-block;
+
   }
 
 
@@ -123,7 +152,14 @@ appear center justified */
     padding-right: 120px !important;
     }
 }
+@media(max-width: 325px) {
 
+
+/*added for iphone 5s compatibility, resume link on last item of homepage */
+.entry-content > :last-child {
+  margin-left: 20%;
+}
+}
 
 @media(min-width: 650px){
   .header-image {
@@ -168,11 +204,7 @@ body p, h1, h2, h3, h4, h5 {
 }
 
 
-.menu-toggle:hover, .menu-toggle:focus, a, .main-navigation a:hover, .main-navigation a:focus, .dropdown-toggle:hover, .dropdown-toggle:focus, .social-navigation a:hover:before, .social-navigation a:focus:before, .post-navigation a:hover .post-title, .post-navigation a:focus .post-title, .tagcloud a:hover, .tagcloud a:focus,
-.site-branding .site-title a:hover, .site-branding .site-title a:focus, .entry-title a:hover, .entry-title a:focus, .entry-footer a:hover, .entry-footer a:focus,
-.comment-metadata a:hover, .comment-metadata a:focus, .pingback .comment-edit-link:hover, .pingback .comment-edit-link:focus, .comment-reply-link, .comment-reply-link:hover, .comment-reply-link:focus, .required, .site-info a:hover, .site-info a:focus {
-   color: #29aa7b !important;
-}
+
 
 
 .project_image {

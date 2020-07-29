@@ -53,4 +53,4 @@
 			);
 		?>
 	</footer><!-- .entry-footer -->
-</article><!-- #post-## -->
+</article><!-- #post-##--> 
