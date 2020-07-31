@@ -9,6 +9,30 @@
   margin-bottom: 1.5em;
 }
 
+.menu-toggle {
+  background-color: #000000;
+  color: #FFFFFF;
+}
+
+.primary-footer-menu a p {
+  color: #000000;
+}
+.primary-footer-menu {
+  background-color: #FFFFFF;
+}
+
+#site-navigation {
+  background-color: #000000;
+}
+
+#site-navigation a {
+  color: #FFFFFF ;
+}
+
+.menu-toggle {
+  background-color: #000000;
+}
+
 table.upcoming-appearances-table  {
   border-collapse: separate;
 }
@@ -43,10 +67,23 @@ margin-top: 5px;
   width: 18.5%;
 }
 
-
-
-
 @media(max-width: 909px) {
+
+  .menu-toggle:hover,
+  .menu-toggle:focus {
+    background-color: #000000;
+    color: #FFFFFF;
+  }
+
+  .main-navigation a:hover {
+    color: #29aa7b !important;
+  }
+
+
+  .menu-toggle.toggled-on, .menu-toggle.toggled-on:hover,
+  .menu-toggle.toggled-on:focus{
+    color: #29aa7b;
+  }
   .content-area{
     width: 93%;
     margin-left: -13%;
@@ -59,6 +96,10 @@ margin-top: 5px;
     float: left;
     clear: both;
   }
+
+  .main-navigation li {
+    padding-left: 25px;
+  }
   .news_div {
     padding-bottom: 15%;
   }
@@ -68,7 +109,6 @@ margin-top: 5px;
     display: inline-block;
 
   }
-
 
 /* This set of rules exists to make mobile text
 appear center justified */
@@ -82,8 +122,6 @@ appear center justified */
     padding-right: 0px;
   }
 
-
-
   .row {
     padding-right: 0px !important;
     padding-left: 5% !important;
@@ -94,29 +132,23 @@ appear center justified */
 
 }
 
-
-
-
-
 @media(min-width: 990px){
   .news_banner img {
   margin: 3% 0 3% 0;
+  }
+
+  #masthead {
+    padding-bottom: 0px;
+  }
+
+  .news_div {
+    margin-left: 65px;
+
 }
-
-#masthead {
-  padding-bottom: 0px;
-}
-
-.news_div {
-  margin-left: 65px;
-
-}
-
     .container{
     padding-right: 120px !important;
     }
 }
-@media(max-width: 325px) {
 
 
 /*added for iphone 5s compatibility, resume link on last item of homepage */
@@ -128,7 +160,11 @@ appear center justified */
   margin-left: 0%;
 }
 
-}
+@media(max-width: 325px) {
+  /*added for iphone 5s compatibility, resume link on last item of homepage */
+  .entry-content > :last-child {
+    margin-left: 20%;
+  }
 
 @media(min-width: 650px){
   .header-image {
@@ -140,7 +176,6 @@ appear center justified */
   }
 }
 
-
 @media(min-width: 900px) {
   .site-header-menu {
     position: fixed;
@@ -151,21 +186,21 @@ appear center justified */
     padding-bottom: 2.rem;
     }
 
-.header-image {
-    margin: 8% 0 8% 0;
-    width: 50%;
-    margin-right: auto;
-     margin-left: auto;
-     transform: scale(0.80);
-}
+  .header-image {
+      margin: 8% 0 8% 0;
+      width: 50%;
+      margin-right: auto;
+       margin-left: auto;
+       transform: scale(0.80);
+  }
 
-.file_image {
-  width: 30%;
-  margin-right: 100px;
-  margin-bottom: 75px;
-  display: inline-block;
-  float: left;
-}
+  .file_image {
+    width: 30%;
+    margin-right: 100px;
+    margin-bottom: 75px;
+    display: inline-block;
+    float: left;
+  }
 
 }
 body p, h1, h2, h3, h4, h5 {
@@ -173,15 +208,6 @@ body p, h1, h2, h3, h4, h5 {
 }
 
 
-.menu-toggle:hover, .menu-toggle:focus, a, .main-navigation a:hover, .main-navigation a:focus, .dropdown-toggle:hover, .dropdown-toggle:focus, .social-navigation a:hover:before, .social-navigation a:focus:before, .post-navigation a:hover .post-title, .post-navigation a:focus .post-title, .tagcloud a:hover, .tagcloud a:focus,
-.site-branding .site-title a:hover, .site-branding .site-title a:focus, .entry-title a:hover, .entry-title a:focus, .entry-footer a:hover, .entry-footer a:focus,
-.comment-metadata a:hover, .comment-metadata a:focus, .pingback .comment-edit-link:hover, .pingback .comment-edit-link:focus, .comment-reply-link, .comment-reply-link:hover, .comment-reply-link:focus, .required, .site-info a:hover, .site-info a:focus {
-   color: #29aa7b !important;
-}
-
-.main-navigation a {
-    color: #1a1a1a !important;
-  }
 .project_image {
   width: 100%;
   padding-bottom: 15px;
