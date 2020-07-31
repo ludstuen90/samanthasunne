@@ -68,7 +68,6 @@ margin-top: 5px;
 }
 
 @media(max-width: 909px) {
-
   .menu-toggle:hover,
   .menu-toggle:focus {
     background-color: #000000;
@@ -81,9 +80,10 @@ margin-top: 5px;
 
 
   .menu-toggle.toggled-on, .menu-toggle.toggled-on:hover,
-  .menu-toggle.toggled-on:focus{
+  .menu-toggle.toggled-on:focus {
     color: #29aa7b;
   }
+
   .content-area{
     width: 93%;
     margin-left: -13%;
@@ -145,20 +145,13 @@ appear center justified */
     margin-left: 65px;
 
 }
-    .container{
+    .container {
     padding-right: 120px !important;
     }
 }
 
 
-/*added for iphone 5s compatibility, resume link on last item of homepage */
-.entry-content > :last-child {
-  margin-left: 20%;
-}
 
-.entry-content:first-of-type  > :last-child {
-  margin-left: 0%;
-}
 
 @media(max-width: 325px) {
   /*added for iphone 5s compatibility, resume link on last item of homepage */
@@ -166,7 +159,15 @@ appear center justified */
     margin-left: 20%;
   }
 
-@media(min-width: 650px){
+
+.entry-content:first-of-type  > :last-child {
+  margin-left: 0%;
+}
+
+
+  }
+
+@media(min-width: 650px) {
   .header-image {
       margin: 8% 0 8% 0;
       width: 50%;
@@ -176,7 +177,7 @@ appear center justified */
   }
 }
 
-@media(min-width: 900px) {
+@media(min-width: 900px){
   .site-header-menu {
     position: fixed;
     right: 5%;
