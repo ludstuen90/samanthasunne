@@ -78,7 +78,6 @@ margin-top: 5px;
     color: #29aa7b !important;
   }
 
-
   .menu-toggle.toggled-on, .menu-toggle.toggled-on:hover,
   .menu-toggle.toggled-on:focus {
     color: #29aa7b;
@@ -86,9 +85,15 @@ margin-top: 5px;
 
   .content-area{
     width: 93%;
-    margin-left: -11%;
-
+    margin-left: -13%;
   }
+
+/* Added so that the banner on the homepage appears
+correctly in mobile */
+  .homepage-area{
+    margin-left: -11%;
+  }
+
   .news_banner img {
     padding-top: 45px;
     margin-left: 13%;
@@ -118,8 +123,12 @@ appear center justified */
 
   .entry-content {
     margin: 0 -8% 0 18%;
-    padding-left: 6%;
+    padding-left: 5%;
     padding-right: 0px;
+  }
+
+  .homepage-containersize {
+    padding-left: 6%;
   }
 
   .row {
