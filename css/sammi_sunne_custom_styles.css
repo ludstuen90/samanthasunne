@@ -86,7 +86,7 @@ margin-top: 5px;
 
   .content-area{
     width: 93%;
-    margin-left: -13%;
+    margin-left: -11%;
 
   }
   .news_banner img {
@@ -118,7 +118,7 @@ appear center justified */
 
   .entry-content {
     margin: 0 -8% 0 18%;
-    padding-left: 5%;
+    padding-left: 6%;
     padding-right: 0px;
   }
 
@@ -129,6 +129,23 @@ appear center justified */
     margin-right: -22% !important;
 
   }
+
+  .entry-content > :last-child   {
+    margin-left: 20%;
+  }
+
+
+
+
+  .entry-content:first-of-type  > :last-child {
+    margin-left: 0%;
+  }
+
+  .news-banner > :last-child  {
+    margin-left: 13% !important;
+  }
+
+
 
 }
 
