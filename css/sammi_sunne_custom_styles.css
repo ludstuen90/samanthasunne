@@ -9,6 +9,13 @@
   margin-bottom: 1.5em;
 }
 
+/* This is added so that the upper navbar in mobile sites doesn't
+appear lower; it instead appears at the top of the page.  */
+.site-inner {
+  position: static;
+}
+]
+
 h1 {
   font-family: inherit;
   font-weight: 900;
@@ -88,6 +95,7 @@ margin-top: 5px;
     color: #29aa7b;
   }
 
+
   .content-area{
     width: 93%;
     margin-left: -13%;
@@ -136,17 +144,9 @@ appear center justified */
     padding-right: 0px;
   }
 
-  .homepage-containersize {
-    padding-left: 6%;
-  }
-
-
   .entry-content > :last-child   {
     margin-left: 20%;
   }
-
-
-
 
   .entry-content:first-of-type  > :last-child {
     margin-left: 0%;
@@ -156,13 +156,11 @@ appear center justified */
     margin-left: 13% !important;
   }
 
-
-
 }
 
 @media(min-width: 990px){
   .news_banner img {
-  margin: 3% 0 3% 0%;
+  margin: 3% 0 3% 0;
   }
 
   #masthead {
@@ -176,7 +174,6 @@ appear center justified */
 }
 
 @media(min-width: 1025px){
-
 .news_banner img {
 margin: 3% 0 3% 1.2%;
 }
@@ -253,7 +250,6 @@ h1 {
   width: 100%;
   padding-bottom: 15px;
 }
-
 
 .project-title {
   padding-top: 20px;

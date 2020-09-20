@@ -23,12 +23,8 @@ get_header(); ?>
 ?>
 <div class="container-fluid">
 
-	<?php if(is_front_page()): ?>
-<div id="primary" class="">
-<?php else : ?>
-	<div id="primary" class="">
-<?php endif; ?>
-
+<div id="primary" >
+	<div id="primary">
 	<main id="main" class="site-main" role="main">
 		<?php
 		// Start the loop.
