@@ -160,7 +160,7 @@ appear center justified */
 
 @media(min-width: 990px){
   .news_banner img {
-  margin: 3% 0 3% 0;
+  margin: 3% 0 3% 1%;
   }
 
   #masthead {
@@ -239,7 +239,7 @@ margin: 3% 0 3% 1.2%;
 
 }
 body p, h1, h2, h3, h4, h5 {
-        font-family: Merriweather, Georgia, serif ;!important
+        font-family: Merriweather, Georgia, serif !important;
 }
 h1 {
   font-weight: 900 !important ;
