@@ -1,8 +1,7 @@
-<div class="container  entry-content">
   <div class="row">
     <div class="col-md-12">
   <h1>  </h1>
-</div>
+  </div>
 </div>
 
   <div class="row">
@@ -24,5 +23,8 @@
       </div>
   </div>
   <br>
+  <div class="row">
+    <div class="col-md-12">
   <a href="projects/"><p>Click here</a> to see more projects.</p>
-  </div>
+</div>
+</div>

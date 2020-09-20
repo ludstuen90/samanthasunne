@@ -18,7 +18,8 @@
 
 
 	<?php if(is_front_page()): ?>
-		<div class="entry-content homepage-containersize">
+
+
 		<?php endif; ?>
 		<?php
 
@@ -54,7 +55,7 @@
 		?>
 
 	<?php if(is_front_page()): ?>
-		</div> 	<!-- .entry-content -->
+		 	<!-- .entry-content -->
 		<?php include('news_images.php');?>
 		<br>
 		<?php include('proud_projects.php');?>

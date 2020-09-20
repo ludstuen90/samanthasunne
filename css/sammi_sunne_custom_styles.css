@@ -9,6 +9,11 @@
   margin-bottom: 1.5em;
 }
 
+h1 {
+  font-family: inherit;
+  font-weight: 900;
+}
+
 .menu-toggle {
   background-color: #000000;
   color: #FFFFFF;
@@ -102,6 +107,11 @@ correctly in mobile */
     clear: both;
   }
 
+  .homepageimage {
+    padding: 0 0 20px 12%;
+  }
+
+
   .main-navigation li {
     padding-left: 25px;
   }
@@ -112,7 +122,6 @@ correctly in mobile */
   .news_banner {
     clear: both;
     display: inline-block;
-
   }
 
 /* This set of rules exists to make mobile text
@@ -131,13 +140,6 @@ appear center justified */
     padding-left: 6%;
   }
 
-  .row {
-    padding-right: 0px !important;
-    padding-left: 5% !important;
-    margin-left: 10% !important;
-    margin-right: -22% !important;
-
-  }
 
   .entry-content > :last-child   {
     margin-left: 20%;
@@ -160,23 +162,25 @@ appear center justified */
 
 @media(min-width: 990px){
   .news_banner img {
-  margin: 3% 0 3% 0;
+  margin: 3% 0 3% 0%;
   }
 
   #masthead {
     padding-bottom: 0px;
   }
 
-  .news_div {
-    margin-left: 65px;
 
-}
     .container {
     padding-right: 120px !important;
     }
 }
 
+@media(min-width: 1025px){
 
+.news_banner img {
+margin: 3% 0 3% 1.2%;
+}
+}
 
 
 @media(max-width: 325px) {
@@ -184,7 +188,9 @@ appear center justified */
   .entry-content > :last-child {
     margin-left: 20%;
   }
-
+  .homepageimage {
+    padding: 0 0 20px 0;
+  }
 
 .entry-content:first-of-type  > :last-child {
   margin-left: 0%;
@@ -213,6 +219,11 @@ appear center justified */
     padding-bottom: 2.rem;
     }
 
+    .homepageimage {
+      width: 80%;
+      float: right;
+    }
+
   .header-image {
       margin: 8% 0 8% 0;
       width: 50%;
@@ -231,7 +242,10 @@ appear center justified */
 
 }
 body p, h1, h2, h3, h4, h5 {
-      font-family: Merriweather, Georgia, serif; !important
+        font-family: Merriweather, Georgia, serif ;!important
+}
+h1 {
+  font-weight: 900 !important ;
 }
 
 
@@ -239,6 +253,7 @@ body p, h1, h2, h3, h4, h5 {
   width: 100%;
   padding-bottom: 15px;
 }
+
 
 .project-title {
   padding-top: 20px;

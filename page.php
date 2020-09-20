@@ -21,12 +21,12 @@ get_header(); ?>
 
 
 ?>
-
+<div class="container-fluid">
 
 	<?php if(is_front_page()): ?>
-<div id="primary" class="content-area homepage-area">
+<div id="primary" class="">
 <?php else : ?>
-	<div id="primary" class="content-area">
+	<div id="primary" class="">
 <?php endif; ?>
 
 	<main id="main" class="site-main" role="main">
