@@ -1,4 +1,3 @@
-<div class="container  entry-content resume-content">
   <div class="row">
     <div class="col-md-12">
   <h1> Resume</h1>
@@ -25,5 +24,8 @@
         <p>Almost five years experience in training students and reporters in hands-on, easy-to-use tools for journalism. Frequent speaker for IRE/NICAR, American University and SPJ/Google News Initiative.</p>
       </div>
   </div>
+  <div class="row">
+    <div class="col-md-12">
 	<p><a href="/wp-content/uploads/2020/07/SamanthaSunne_Resume.pdf">Click here</a> to see a full resume.</p>
-  </div>
+</div>
+</div>

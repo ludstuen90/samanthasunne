@@ -11,14 +11,7 @@
 <meta name="twitter:description" content="Tutorials by Samantha Sunne, journalism trainer and freelancer." />
 <meta name="twitter:image" content="../wp-content/uploads/2020/06/170622_ohara_ire09_small-1200x800-1.jpg" />
 
-<style>
-.container {
-  width: 175%;
-}
 
-</style>
-
- <div class="container entry-content">
    <div class="row">
      <div class="col-lg-12">
        <h1>Upcoming Workshops</h1>
@@ -59,17 +52,19 @@
      </div>
    </div>
  </div>
-
-<div class="news_banner news_div entry-content">
-  <img class="news_banner" src="../wp-content/uploads/2020/06/BU_rectangle_116.png" ></img>
-  <img class="news_banner" src="../wp-content/uploads/2020/06/au_rectangle_116.png" ></img>
-  <img class="news_banner" src="../wp-content/uploads/2020/06/spj_rectangle_116.png" ></img>
-  <img class="news_banner" src="../wp-content/uploads/2020/06/gni_rectangle_116.png"</img>
-  <img class="news_banner" src="../wp-content/uploads/2020/06/IRE_rectangle_116.png" </img>
+<div class="row">
+  <div class="col-md-12">
+<div class="news_banner news_div">
+  <img class="center-block" src="../wp-content/uploads/2020/06/BU_rectangle_116.png" ></img>
+  <img class="center-block" src="../wp-content/uploads/2020/06/au_rectangle_116.png" ></img>
+  <img class="center-block" src="../wp-content/uploads/2020/06/spj_rectangle_116.png" ></img>
+  <img class="center-block" src="../wp-content/uploads/2020/06/gni_rectangle_116.png"</img>
+  <img class="center-block" src="../wp-content/uploads/2020/06/IRE_rectangle_116.png" </img>
+</div>
+</div>
 </div>
 <br>
 
-<div class="container entry-content">
    <div class="row">
     <div class="col-md-12">
       <h1>Online Tutorials</h1>
