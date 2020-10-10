@@ -13,7 +13,7 @@
         <h5 class="project-title">Investigative reporting</h5>
 		<p><img class="project_image" src="../wp-content/uploads/2020/06/la.jpg"></p>
 		<p>I publish investigative stories in New Orleans, Louisiana, where I have been freelancing for four years. Recent accolades include second place for Investigative Reporting in the New Orleans Press Club and the Silicon Bayou 100 most influential people in Louisiana tech.</p>
-		<p>You can find my stories on <a href="samanthasunne.contently.com">my Contently portfolio</a> and <a href="mailto:samanthasunne@gmail.com">contact me</a> for collaborations.</p>
+		<p>You can find my stories on <a href="https://samanthasunne.contently.com">my Contently portfolio</a> and <a href="mailto:samanthasunne@gmail.com">contact me</a> for collaborations.</p>
       </div>
 
       <div class="col-md-6">
@@ -46,8 +46,8 @@
     <div class="col-md-6">
       <h5 class="project-title">MisinfoCon</h5>
       <img class="project_image" src="../wp-content/uploads/2020/06/misinfocon_yellow.png">
-      <p>I am the managing editor of <a href="https://misinfocon.com">MisinfoCon.com</a>, a curation of essays and experiments targeting the current misinformation crisis. My anti-misinformation advocacy has included speaking on a panel in Moscow, organizing conferences, traveling to Harvard to brainstorm best practices with other trainers. In 2017, I gave a talk about threat modeling against misinformation in Serbia.</p>
-		<p>✍️ Send me your pitches for <a href="https://docs.google.com/forms/d/e/1FAIpQLSfYC27JfyoLT4UkdneXWxtx6mLNHFKzpqdanYxlSxPefArgcA/viewform?c=0&w=1">MisinfoCon</a></p>
+      <p>I am the managing editor of <a href="https://misinfocon.com">MisinfoCon</a>, a curation of essays and experiments targeting the current misinformation crisis. My anti-misinformation advocacy has included speaking on a panel in Moscow, organizing conferences, traveling to Harvard to brainstorm best practices with other trainers. In 2017, I gave a talk about threat modeling against misinformation in Serbia.</p>
+		<p>✍️ Send me your pitches for <a href="https://misinfocon.com/misinfocon-wants-your-pitches-misinformation-events-grants-and-more-6ca844d2ac10">MisinfoCon</a></p>
     </div>
     <div class="col-md-6">
       <h5 class="project-title">Articles for journalists</h5>
@@ -62,7 +62,7 @@
       <h5 class="project-title">Unicode</h5>
       <img class="project_image" src="../wp-content/uploads/2020/06/unicode-e1586209134419.png">
 		<p>I work with Unicode and Emojination to create emoji that better represent different cultures, religions and identities around the world. I proposed seven emoji that will be added to the <a href="https://unicode.org/emoji/charts/full-emoji-list.html">Unicode library</a> in 2020, including the Russian nesting doll, African hut and polar bear.</p>
-		<p>🧐 Suggest a <a href="http://www.emojination.org">new emoji</a></p>
+		<p>🧐 Suggest a <a href="http://www.emojination.org/#4">new emoji</a></p>
     </div>
   </div>
 

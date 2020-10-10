@@ -33,25 +33,25 @@
      <div class="col-lg-7">
      <table class="upcoming-appearances-table">
 <tbody class="entry-content">
-	<tr>
-<td><a href="https://ire.org/conferences/nicar-2020">NICAR</a></td>
-<td>New Orleans, LA</td>
-<td>March 2020</td>
+<tr>
+<td><a href="https://misinfocon.com/join-the-misinfocon-webinar-on-police-misinformation-4433dfb3d89c">Panel on police misinformation</a></td>
+<td>Online</td>
+<td>September 2020</td>
 </tr>
 	<tr>
-<td><a href="https://presspartners.org">Alfred Friendly Press Partners</a></td>
+<td><a href="https://www.mediaparty.info/english">Hacks/Hackers Media Party</a></td>
 <td>Online</td>
-<td>April 2020</td>
+<td>September 2020</td>
 </tr>
 	<tr>
-<td><a href="https://www.ire.org/covidwebinars">IRE/SPJ Fact-Checking the Coronavirus</a></td>
+<td><a href="https://www.ire.org/events-and-training/conferences/2020-ire-conference">IRE 2020</a></td>
 <td>Online</td>
-<td>April 2020</td>
+<td>September 2020</td>
 </tr>
 	<tr>
-<td><a href="https://combeyond.bu.edu/workshop/data-narrative/">Boston University Data + Narrative</a></td>
+<td><a href="https://www.poynter.org/the-poynter-college-media-project/">Poynter College Media Project</a></td>
 <td>Online</td>
-<td>June 2020</td>
+<td>October 2020</td>
 </tr>
 </tbody>
 </table>
