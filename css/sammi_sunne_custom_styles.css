@@ -9,6 +9,18 @@
   margin-bottom: 1.5em;
 }
 
+/* This is added so that the upper navbar in mobile sites doesn't
+appear lower; it instead appears at the top of the page.  */
+.site-inner {
+  position: static;
+}
+]
+
+h1 {
+  font-family: inherit;
+  font-weight: 900;
+}
+
 .menu-toggle {
   background-color: #000000;
   color: #FFFFFF;
@@ -78,17 +90,23 @@ margin-top: 5px;
     color: #29aa7b !important;
   }
 
-
   .menu-toggle.toggled-on, .menu-toggle.toggled-on:hover,
   .menu-toggle.toggled-on:focus {
     color: #29aa7b;
   }
 
+
   .content-area{
     width: 93%;
     margin-left: -13%;
-
   }
+
+/* Added so that the banner on the homepage appears
+correctly in mobile */
+  .homepage-area{
+    margin-left: -11%;
+  }
+
   .news_banner img {
     padding-top: 45px;
     margin-left: 13%;
@@ -96,6 +114,11 @@ margin-top: 5px;
     float: left;
     clear: both;
   }
+
+  .homepageimage {
+    padding: 0 0 20px 12%;
+  }
+
 
   .main-navigation li {
     padding-left: 25px;
@@ -107,7 +130,6 @@ margin-top: 5px;
   .news_banner {
     clear: both;
     display: inline-block;
-
   }
 
 /* This set of rules exists to make mobile text
@@ -122,35 +144,40 @@ appear center justified */
     padding-right: 0px;
   }
 
-  .row {
-    padding-right: 0px !important;
-    padding-left: 5% !important;
-    margin-left: 10% !important;
-    margin-right: -22% !important;
+  .entry-content > :last-child   {
+    margin-left: 20%;
+  }
 
+  .entry-content:first-of-type  > :last-child {
+    margin-left: 0%;
+  }
+
+  .news-banner > :last-child  {
+    margin-left: 13% !important;
   }
 
 }
 
 @media(min-width: 990px){
   .news_banner img {
-  margin: 3% 0 3% 0;
+  margin: 3% 0 3% 1%;
   }
 
   #masthead {
     padding-bottom: 0px;
   }
 
-  .news_div {
-    margin-left: 65px;
 
-}
     .container {
     padding-right: 120px !important;
     }
 }
 
-
+@media(min-width: 1025px){
+.news_banner img {
+margin: 3% 0 3% 1.2%;
+}
+}
 
 
 @media(max-width: 325px) {
@@ -158,7 +185,9 @@ appear center justified */
   .entry-content > :last-child {
     margin-left: 20%;
   }
-
+  .homepageimage {
+    padding: 0 0 20px 0;
+  }
 
 .entry-content:first-of-type  > :last-child {
   margin-left: 0%;
@@ -187,6 +216,11 @@ appear center justified */
     padding-bottom: 2.rem;
     }
 
+    .homepageimage {
+      width: 80%;
+      float: right;
+    }
+
   .header-image {
       margin: 8% 0 8% 0;
       width: 50%;
@@ -205,7 +239,10 @@ appear center justified */
 
 }
 body p, h1, h2, h3, h4, h5 {
-      font-family: Merriweather, Georgia, serif; !important
+        font-family: Merriweather, Georgia, serif !important;
+}
+h1 {
+  font-weight: 900 !important ;
 }
 
 

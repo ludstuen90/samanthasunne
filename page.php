@@ -21,8 +21,10 @@ get_header(); ?>
 
 
 ?>
+<div class="container-fluid">
 
-<div id="primary" class="content-area">
+<div id="primary" >
+	<div id="primary">
 	<main id="main" class="site-main" role="main">
 		<?php
 		// Start the loop.

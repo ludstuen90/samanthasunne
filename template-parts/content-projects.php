@@ -1,4 +1,3 @@
-<div class="container entry-content">
 
   <div class="row">
     <div class="col-md-12">
@@ -65,5 +64,3 @@
 		<p>🧐 Suggest a <a href="http://www.emojination.org">new emoji</a></p>
     </div>
   </div>
-
-</div>
