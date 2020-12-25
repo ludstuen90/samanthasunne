@@ -40,7 +40,6 @@ h1 {
 #site-navigation a {
   color: #FFFFFF ;
 }
-
 .menu-toggle {
   background-color: #000000;
 }
@@ -124,7 +123,7 @@ correctly in mobile */
     padding-left: 25px;
   }
   .news_div {
-    padding-bottom: 15%;
+    padding-bottom: 20%;
   }
 
   .news_banner {
@@ -163,6 +162,9 @@ appear center justified */
   margin: 3% 0 3% 1%;
   }
 
+  .news_banner {
+      margin-top: 15px;
+  }
   #masthead {
     padding-bottom: 0px;
   }
