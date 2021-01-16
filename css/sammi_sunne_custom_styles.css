@@ -34,14 +34,17 @@ h1 {
 }
 
 #site-navigation {
-  background-color: #000000;
+  background-color: #FFFFFF;
+  border: 1px solid #000;
 }
 
 #site-navigation a {
-  color: #FFFFFF ;
+  color: #000000 ;
 }
 .menu-toggle {
-  background-color: #000000;
+  background-color: #FFFFFF;
+  color: #000000;
+  border: 1px solid #000;
 }
 
 table.upcoming-appearances-table  {
@@ -81,8 +84,8 @@ margin-top: 5px;
 @media(max-width: 909px) {
   .menu-toggle:hover,
   .menu-toggle:focus {
-    background-color: #000000;
-    color: #FFFFFF;
+    background-color: #FFFFFF;
+    color: #000000;
   }
 
   .main-navigation a:hover {
@@ -94,6 +97,9 @@ margin-top: 5px;
     color: #29aa7b;
   }
 
+  .menu-toggle:hover, .menu-toggle:focus{
+    border: 1px solid #000;
+  }
 
   .content-area{
     width: 93%;
