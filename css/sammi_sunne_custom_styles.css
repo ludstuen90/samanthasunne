@@ -138,9 +138,9 @@ correctly in mobile */
   }
 
 /* This set of rules exists to make mobile text
-appear center justified */
+appear left justified */
   p {
-    text-align: center;
+    text-align: left;
   }
 
   .entry-content {
