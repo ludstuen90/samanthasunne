@@ -101,6 +101,7 @@ margin-top: 5px;
 }
 
 @media(max-width: 769px) and (min-width: 765px) {
+  /* Add several fixes to the news banner section specifically for iPad */
   .news_div {
     margin-bottom: 15px;
     margin-top: 15px;
@@ -112,10 +113,6 @@ margin-top: 5px;
 }
 
 @media(max-width: 909px) {
-
-
-
-
   .menu-toggle:hover,
   .menu-toggle:focus {
     background-color: #FFFFFF;
