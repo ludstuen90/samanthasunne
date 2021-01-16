@@ -81,6 +81,35 @@ margin-top: 5px;
   width: 18.5%;
 }
 
+@media(max-width:765px) {
+  .news_div {
+    padding-bottom: 20%;
+  }
+
+  .news_banner {
+    clear: both;
+    display: inline-block;
+  }
+  .news_banner img {
+    padding-top: 45px;
+    margin-left: 13%;
+    width: 75%;
+    float: left;
+    clear: both;
+  }
+}
+
+@media(max-width: 769px) and (min-width: 765px) {
+  /* Add several fixes to the news banner section specifically for iPad */
+  .news_div {
+    margin-bottom: 15px;
+    margin-top: 15px;
+  }
+  .site-main {
+    margin-bottom: -10px;
+  }
+}
+
 @media(max-width: 909px) {
   .menu-toggle:hover,
   .menu-toggle:focus {
@@ -112,13 +141,6 @@ correctly in mobile */
     margin-left: -11%;
   }
 
-  .news_banner img {
-    padding-top: 45px;
-    margin-left: 13%;
-    width: 75%;
-    float: left;
-    clear: both;
-  }
 
   .homepageimage {
     padding: 0 0 20px 12%;
@@ -128,14 +150,7 @@ correctly in mobile */
   .main-navigation li {
     padding-left: 25px;
   }
-  .news_div {
-    padding-bottom: 20%;
-  }
 
-  .news_banner {
-    clear: both;
-    display: inline-block;
-  }
 
 /* This set of rules exists to make mobile text
 appear left justified */
