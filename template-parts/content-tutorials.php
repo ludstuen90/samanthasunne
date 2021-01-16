@@ -79,28 +79,28 @@
        <p>"Scraping" is a catch-all word for grabbing information off a web page and into your spreadsheet - whether the website wants you to or not.</p>
 		 <p>This tutorial is also available <a href="https://cn.gijn.org/2018/05/09/%E7%BB%99%E7%BC%96%E7%A8%8B%E5%B0%8F%E7%99%BD%E7%9A%84%E6%95%B0%E6%8D%AE%E6%8A%93%E5%8F%96%E6%95%99%E7%A8%8B/">in Chinese</a> and as a video on <a href="https://learn.ire.org/all-videos/">NICAR-LEARN</a>.</p>
      </div>
-	   
+
 	   <div class="col-md-4">
 		 <a href="https://www.usnews.com/education/learn-excel-guide"><img style="width:100%" src="https://www.usnews.com/dims4/USNEWS/c59ebb5/2147483647/resize/300x>/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2F6c%2F56%2Fe1c036074a9b9da75229f61ba43b%2F200827-spreadsheet-stock.jpg"></a>
 		 <a href="https://www.usnews.com/education/learn-excel-guide"><b>How to Learn Excel</b></a>
        <p>Excel, or spreadsheets in general, offers an easy and popular platform for data analysis.</p>
 		 <p>This guide was published as part of an education series by <a href="https://www.usnews.com/education">US News</a>.</p>
     </div>
-	   
+
 	   <div class="col-md-4">
 		 <a href="https://www.usnews.com/education/learn-sql-guide"><img style="width:100%" src="https://www.usnews.com/dims4/USNEWS/bb47f26/2147483647/crop/2000x1333%2B0%2B0/resize/300x300>/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2F80%2F07%2F1237aa6043d7a93c38a400d9e3ca%2F200724-dataanalyst-stock.jpg"></a>
 		 <a href="https://www.usnews.com/education/learn-sql-guide"><b>How to Learn SQL</b></a>
        <p>If you work with data but find programs like Excel too limiting, learning SQL may be the next step on your data journey.</p>
 		 <p>This guide was published as part of an education series by <a href="https://www.usnews.com/education">US News</a>.</p>
     </div>
-	   
+
 </div>
 <!-- This is the end of Row 1-->
-	   
+
 <!-- This is Row 2-->
 
-<div class="row">   
-	   
+<div class="row">
+
      <div class="col-md-4">
 		 <a href="https://docs.google.com/presentation/d/1282wSn21GLcGD7xwJ3xtRp-ECswjp5npJ_Ap0cxWGUE/edit?usp=sharing"><img style="width:100%" src="../wp-content/uploads/2020/06/spreadsheet.png"></a>
 		 <a href="https://docs.google.com/presentation/d/1282wSn21GLcGD7xwJ3xtRp-ECswjp5npJ_Ap0cxWGUE/edit?usp=sharing"><b>How to Use a Spreadsheet</b></a>
@@ -114,14 +114,14 @@
        <p>When should you background a source? How do you do it effectively, and how deep do you go? This walkthrough offers some guidance.</p>
      <p>This webinar was created for the University of Missouri Investigative Reporting class in 2020.</p>
      </div>
-	
+
 	<div class="col-md-4">
        <a href="https://docs.google.com/presentation/d/e/2PACX-1vQMTheumShdIjFbGnSsStI0SS6Jgz6LsVBWt1u0GIjlmr2vymIe3RwjVWYB8BV-YQqvyxP9iLQClntM/pub?start=false&loop=false&delayms=3000"><img style="width:100%" src="../wp-content/uploads/2020/06/Screen-Shot-2020-02-19-at-10.36.40-AM.png"></a>
      <a href="https://docs.google.com/presentation/d/e/2PACX-1vQMTheumShdIjFbGnSsStI0SS6Jgz6LsVBWt1u0GIjlmr2vymIe3RwjVWYB8BV-YQqvyxP9iLQClntM/pub?start=false&loop=false&delayms=3000"><b>Make Your Own Google Map</b></a>
        <p>Did you know you can make your own Google Map - in 5 to 10 minutes? This tutorial shows you how, plus advanced options like customization and data organization.</p>
      <p>This guide was created for the Boston University <a href="https://combeyond.bu.edu/workshop/data-narrative/">Data + Narrative workshop</a>.</p>
      </div>
-	
+
   </div>
 
 <!-- This is the end of Row 2-->
@@ -155,9 +155,9 @@
 <!-- This is the end of Row 3-->
 
 <!-- This is Row 4-->
-		 
-	<div class="row">	 
-		 	 
+
+	<div class="row">
+
      <div class="col-md-4">
      <a href="https://docs.google.com/presentation/d/195chJ9KB4gaLSNfbrWAxIUmleYyE5WrigtQN01Iqjoc/edit?usp=sharing"><img src="../wp-content/uploads/2020/06/balccon1.png"></a>
        <a href="https://docs.google.com/presentation/d/195chJ9KB4gaLSNfbrWAxIUmleYyE5WrigtQN01Iqjoc/edit?usp=sharing"><b>Threat Modeling against Fake News</b></a>
@@ -178,9 +178,9 @@
        <p>Most, if not all, newsrooms have realized that they want data in their reporting. But how do you go about it when your staff is already overworked? This strategy study examines case studies, both successful and unsuccessful.</p>
 <p>This paper has been recommended by the <a href="https://journalistsresource.org/studies/government/data-journalism-visualization-mapping-ethics-syllabus/">Harvard Shorenstein Center</a> and the <a href="https://www.knightdigitalmediacenter.org/news/2016/03/data-journalism-past-present-and-future.html">Knight Digital Media Center</a>.</p>
      </div>
-		 
-</div>		 
-		 
+
+</div>
+
 <!-- This is the end of Row 4-->
 
 <!-- This is Row 5-->
@@ -196,3 +196,4 @@
 
  </div>
  <!-- This is the end of Row 5-->
+<br><br>
