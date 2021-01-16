@@ -86,7 +86,6 @@ margin-top: 5px;
     padding-bottom: 20%;
   }
 
-
   .news_banner {
     clear: both;
     display: inline-block;
@@ -109,7 +108,6 @@ margin-top: 5px;
   .site-main {
     margin-bottom: -10px;
   }
-
 }
 
 @media(max-width: 909px) {
@@ -142,7 +140,6 @@ correctly in mobile */
   .homepage-area{
     margin-left: -11%;
   }
-
 
 
   .homepageimage {
