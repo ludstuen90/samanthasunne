@@ -9,7 +9,6 @@
   margin-bottom: 1.5em;
 }
 
-
 /* This is added so that the upper navbar in mobile sites doesn't
 appear lower; it instead appears at the top of the page.  */
 .site-inner {
@@ -37,7 +36,6 @@ h1 {
 #site-navigation {
   background-color: #FFFFFF;
   border: 1px solid #000;
-
 }
 
 #site-navigation a {
@@ -47,7 +45,6 @@ h1 {
   background-color: #FFFFFF;
   color: #000000;
   border: 1px solid #000;
-
 }
 
 table.upcoming-appearances-table  {
