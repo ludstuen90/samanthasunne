@@ -26,25 +26,25 @@
      <div class="col-lg-7">
      <table class="upcoming-appearances-table">
 <tbody class="entry-content">
-<tr>
-<td><a href="https://misinfocon.com/join-the-misinfocon-webinar-on-police-misinformation-4433dfb3d89c">Panel on police misinformation</a></td>
-<td>Online</td>
-<td>September 2020</td>
-</tr>
 	<tr>
-<td><a href="https://www.mediaparty.info/english">Hacks/Hackers Media Party</a></td>
-<td>Online</td>
-<td>September 2020</td>
-</tr>
-	<tr>
-<td><a href="https://www.ire.org/events-and-training/conferences/2020-ire-conference">IRE 2020</a></td>
-<td>Online</td>
-<td>September 2020</td>
-</tr>
-	<tr>
-<td><a href="https://www.newsobserver.com">Raleigh News and Observer</a></td>
-<td>Online</td>
+<td><a href="https://www.newsobserver.com">Google News Initiative tools</a></td>
+<td>Raleigh News & Observer</td>
 <td>November 2020</td>
+</tr>
+	<tr>
+<td><a href="https://fm.hunter.cuny.edu/journalism/index.php/courses/">Data Journalism: Telling Stories with Numbers</a></td>
+<td>Hunter College CUNY</td>
+<td>January-May 2021</td>
+</tr>
+	<tr>
+<td><a href="http://catalog.missouri.edu/courseofferings/journ/">Investigative Reporting</a></td>
+<td>University of Missouri</td>
+<td>February 2021</td>
+</tr>
+	<tr>
+<td><a href="https://www.ire.org/training/conferences/nicar-2021/">Scraping the Web</a></td>
+<td>NICAR</td>
+<td>March 2021</td>
 </tr>
 </tbody>
 </table>
