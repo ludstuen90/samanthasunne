@@ -82,6 +82,9 @@ margin-top: 5px;
 }
 
 @media(max-width:765px) {
+  .homeintro {
+    padding-top: 18px;
+  }
   .news_div {
     padding-bottom: 20%;
   }
